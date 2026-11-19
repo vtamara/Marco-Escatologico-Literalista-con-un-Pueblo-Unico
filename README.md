@@ -8,14 +8,33 @@
 
 ### 1.1 Propósito del documento
 
-Este documento presenta un marco escatológico **premilenial pretribulacional** que afirma un **solo pueblo de Dios** definido por la fe en Cristo. Su tesis central es que la distinción dispensacionalista entre la Iglesia y el Israel étnico es falsa: la Iglesia es el Israel de Dios (Gá 6:16), el olivo es uno (Rom 11:17-24), el templo físico cesó (Mt 24:1-2; Jn 2:19-21), y el milenio es el reinado de Cristo sobre todas las naciones, no una era de dominio étnico judío.
+Este documento presenta un marco escatológico **premilenial pretribulacional**
+que afirma un **solo pueblo de Dios** definido por la fe en Cristo. Su tesis
+central es que la distinción dispensacionalista entre la **Iglesia** y la
+**nación judía como sujeto permanente del plan divino** es falsa: la Iglesia es
+el Israel de Dios (Gá 6:16), el olivo es uno (Rom 11:17-24), el templo físico
+cesó (Mt 24:1-2; Jn 2:19-21), y el milenio es el reinado de Cristo sobre todas
+las naciones, no una era de dominio del Estado moderno de Israel.
+
+En la práctica, esa distinción se traduce en el **apoyo cristiano al Estado
+moderno de Israel** como si fuera el sujeto de las promesas. Es a ese apoyo —y a
+la teología que lo sostiene— a lo que este documento responde.
 
 ### 1.2 Tesis central
 
 1. **Un solo pueblo de Dios**: judíos y gentiles unidos por la fe en Cristo (Gá 3:28-29; Ef 2:14-16).
-2. **El nombre "Israel" es relacional, no étnico**: se da por la lucha y el ruego con Dios (Gn 32:28; Os 12:4), no por genealogía.
+2. **El nombre "Israel" es relacional, no genealógico**: se da por la lucha y el ruego con Dios (Gn 32:28; Os 12:4), no por la cadena de sangre.
 3. **El templo físico cesó**: Cristo es el templo (Jn 2:19-21), y el cuerpo del creyente y la iglesia son el templo (1 Co 3:16; Ef 2:19-22).
 4. **El milenio es el reinado de Cristo sobre las naciones**, no una restauración del templo y la ley mosaica.
+
+**Sobre el término "Israel étnico".** Algunos críticos del dispensacionalismo
+usan esta expresión, pero los propios dispensacionalistas hablan de "the Jewish
+nation" o del Israel nacional (así Chuck Smith: "the Jewish nation, not the
+church"). Aquí evitamos "Israel étnico" por dos razones: (a) no es el término de
+quienes sostienen la postura, y refutarlo sería atacar un hombre de paja; (b)
+bíblicamente es insostenible que exista una etnia pura (las esposas de Jacob,
+Rahab, Rut, Caleb; cf. §2.6). Lo que se refuta es la **separación de pueblos** y
+el **apoyo al Estado moderno como sujeto de las promesas**.
 
 ### 1.3 Qué se conserva y qué se rechaza
 
@@ -100,6 +119,39 @@ Así como el Israel del Norte conservó el nombre "Israel" pero no fue el Israel
 | **Is 48:1-2** | "Oíd esto, casa de Jacob, que os llamáis del nombre de Israel... porque de la santa ciudad se nombran". El profeta distingue entre tener el nombre y tener la fe. |
 
 **Aplicación**: La nación moderna de Israel tiene el nombre "Israel", pero eso no la hace el Israel de Dios. El Israel de Dios es el que ha pasado de Jacob a Israel por la fe, judío o gentil (Gá 6:16).
+
+### 2.3b El argumento no es nuestro: también entre judíos
+
+Este documento no sostiene que Israel deba carecer de tierra ni que el pueblo
+judío no tenga derecho a vivir en ella. Sostiene algo más limitado: que **el
+Estado moderno de Israel no es el Israel de Dios**, y que esa distinción **no es
+una invención cristiana**.
+
+Entre los propios judíos hay quienes rechazan la ecuación entre el Estado y el
+pueblo del pacto. Ocurre en varias direcciones:
+
+| Corriente | Su rechazo |
+| :--- | :--- |
+| **Judaísmo ultraortodoxo antisionista** (Neturei Karta, Satmar y otros) | El Estado es una usurpación del Mesías: el regreso y la soberanía deben venir de Dios, no de una asamblea humana. Algunos llegan a oponerse a la existencia del Estado como entidad soberana. |
+| **Judaísmo reformista y reconstruccionista** | La vocación judía es religiosa y ética, no la soberanía de un Estado; la tierra es símbolo de esperanza, no título de propiedad estatal. |
+| **Pensadores sionistas críticos** (p. ej. Martin Buber) | Un sionismo binacional: dos pueblos en la misma tierra con igualdad de derechos, sin exclusividad de un pueblo sobre el otro. |
+| **Judíos seculares y de izquierda** | Rechazan la definición del Estado como «Estado judío» por sus consecuencias sobre la ciudadanía y los derechos de los no judíos. |
+
+**Por qué esto importa al argumento.** Si la identificación «Estado moderno =
+Israel de Dios» fuera evidente, la aceptarían quienes más conocen el texto
+hebreo. No es así: hay judíos que la rechazan por razones teológicas, y hay
+judíos que la rechazan por razones éticas y políticas. El argumento cristiano de
+este documento coincide con ellos en un punto y solo en uno: **el Estado no es
+el pueblo del pacto**.
+
+**Lo que este documento no afirma.** No se sostiene que Israel no deba existir,
+ni que los judíos no tengan derecho a la tierra, ni que deban ser expulsados. Se
+sostiene lo contrario de lo que a veces se nos atribuye: **la misma medida para
+todos**. Israel como Estado tiene derecho a existir con seguridad; los
+palestinos tienen derecho a la misma seguridad, a la misma tierra y a los mismos
+derechos. La crítica al sionismo cristiano no es una crítica al pueblo judío: es
+una crítica a quienes le asignan al Estado una función divina que el propio
+pueblo, desde distintas corrientes, cuestiona.
 
 ### 2.4 El cese del templo como centro del pacto
 
@@ -319,6 +371,21 @@ erosionando su ética pacifista tradicional.
 milenio futuro y no a esta era, queda un espacio autónomo donde la violencia
 estatal no se juzga con la ética de Jesús. Viene de dentro de la propia
 tradición menonita, lo que lo hace especialmente significativo para nosotros.
+
+**Esto nos toca de cerca.** No hablamos de un error ajeno. El caso documentado
+por Bechtel no ocurrió entre liberales ni entre incrédulos: ocurrió entre
+menonitas que querían ser fieles a la Escritura y conservar su herencia
+pacifista. El sistema no les pidió renunciar a la fe; solo les pidió que
+asignaran el Sermón del Monte a otra era. Lo demás vino solo.
+
+Hoy, en nuestras propias congregaciones —con hermanos venidos de distintas
+tradiciones y con una cobertura menonita—, la misma lógica está en operación.
+No hace falta que nadie lo planifique. Basta con aceptar la premisa: si la
+Iglesia y la nación son dos pueblos con dos planes, entonces la ética del reino
+no rige para el segundo, y cualquier cosa que ese segundo haga deja de ser un
+problema teológico.
+
+Esa es la razón por la que este documento existe.
 
 **d) Lo que hoy dicen los órganos internacionales.** No es una opinión:
 

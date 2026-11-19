@@ -25,10 +25,15 @@ las naciones, no una era de dominio del Estado moderno de Israel.
 
 ### 1.3 Qué se conserva y qué se rechaza del dispensacionalismo
 
-**Se conserva el método literalista** de interpretación, incluido Apocalipsis
+Reconocemos el esfuerzo del dispensacionalismo por hacer una 
+**interpretación escatológica literal**, incluido Apocalipsis
 (milenio literal de 1000 años, tribulación de 7 años, Daniel 9:27 como semana
-de años, segunda venida al final de la tribulación). **Se rechaza la hipótesis
-interpretativa** de que Israel y la Iglesia sean dos pueblos con dos planes distintos.
+de años, segunda venida al final de la tribulación) y lo imitamos en este artículo. 
+Pero rechazamos **la hipótesis interpretativa** de que Israel y la Iglesia
+sean dos pueblos con dos planes distintos por sus **frutos de muerte** en lo que
+vemos hoy en la destrucción en Gaza, Irán, Medio Oriente en general, e incluso en el estado
+moderno de Israel con el apoyo del sionismo cristiano.  La teología no es neutral: 
+produce frutos, y esos frutos deben ser evaluados a la luz de la Escritura (Mt 7:16-20).
 
 | **Se conserva (método literalista)** | **Se rechaza (hipótesis interpretativa)** |
 | :--- | :--- |
@@ -38,17 +43,13 @@ interpretativa** de que Israel y la Iglesia sean dos pueblos con dos planes dist
 | Daniel 9:27 como semana de años | Afirmación de que los santos del AT resucitan al inicio del milenio |
 | Segunda venida al final de la tribulación | Restauración de sacrificios levíticos en el milenio |
 
-Otras hipotesis interpretativas (como la identificación de Gog y Magog o de los 144.000), un desarrollo
-más completo de la propuesta escatológica, las inferencias etiquetadas y las tensiones abiertas está en
+Otras hipotesis interpretativas (como la identificación de Gog y Magog o de los 144.000) los tratamos en un
+documento en desarrollo de la propuesta escatológica más completa, con inferencias etiquetadas y tensiones abiertas
 [`Marco-escatologico-mas-completo-en-desarrollo.md`](Marco-escatologico-mas-completo-en-desarrollo.md).
 
 ### 1.4 Nota de humildad epistemológica
 
 Este documento no afirma que su interpretación sea la única posible ni la "correcta" en sentido absoluto. Afirma que **parece consistente** con lo que hemos podido analizar en detalle de la Escritura, y que está abierta a revisión. La verdad absoluta pertenece a Dios, y nosotros vemos "por espejo, oscuramente" (1 Corintios 13:12). El Espíritu Santo es el que guía a toda verdad (Juan 16:13), y a Él oramos en el nombre de Jesús para que ilumine lo que aún no entendemos.
-
-### 1.5 Reconocimiento al dispensacionalismo
-
-Reconocemos su esfuerzo por hacer una **interpretación escatológica literal**, esfuerzo que imitamos en este artículo. Nuestro rechazo no es por falta de rigor, sino por sus **frutos de muerte** en lo que vemos hoy en la destrucción en Gaza, Irán, Medio Oriente en general, e incluso en el estado moderno de Israel. La teología no es neutral: produce frutos, y esos frutos deben ser evaluados a la luz de la Escritura (Mt 7:16-20).
 
 ---
 

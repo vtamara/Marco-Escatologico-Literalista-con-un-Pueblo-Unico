@@ -23,22 +23,12 @@ las naciones, no una era de dominio del Estado moderno de Israel.
 3. **El templo físico cesó**: Cristo es el templo (Jn 2:19-21), y el cuerpo del creyente y la iglesia son el templo (1 Co 3:16; Ef 2:19-22).
 4. **El milenio es el reinado de Cristo sobre las naciones**, no una restauración del templo y la ley mosaica.
 
-**Sobre el término "Israel étnico".** Algunos críticos del dispensacionalismo
-usan esta expresión, pero los propios dispensacionalistas hablan de "the Jewish
-nation" o del Israel nacional (así Chuck Smith: "the Jewish nation, not the
-church"). Aquí evitamos "Israel étnico" por dos razones: (a) no es el término de
-quienes sostienen la postura, y refutarlo sería atacar un hombre de paja; (b)
-bíblicamente es insostenible que exista una etnia pura (las esposas de Jacob,
-Rahab, Rut, Caleb; cf. §2.6). Lo que se refuta es la **separación de pueblos** y
-el **apoyo al Estado moderno como sujeto de las promesas**.
-
-### 1.3 Qué se conserva y qué se rechaza
+### 1.3 Qué se conserva y qué se rechaza del dispensacionalismo
 
 **Se conserva el método literalista** de interpretación, incluido Apocalipsis
 (milenio literal de 1000 años, tribulación de 7 años, Daniel 9:27 como semana
-de años, segunda venida al final de la tribulación). **Se rechaza una hipótesis
-interpretativa** construida sobre ese método, no el método: que Israel y la
-Iglesia sean dos pueblos con dos planes distintos.
+de años, segunda venida al final de la tribulación). **Se rechaza la hipótesis
+interpretativa** de que Israel y la Iglesia sean dos pueblos con dos planes distintos.
 
 | **Se conserva (método literalista)** | **Se rechaza (hipótesis interpretativa)** |
 | :--- | :--- |
@@ -48,9 +38,9 @@ Iglesia sean dos pueblos con dos planes distintos.
 | Daniel 9:27 como semana de años | Afirmación de que los santos del AT resucitan al inicio del milenio |
 | Segunda venida al final de la tribulación | Restauración de sacrificios levíticos en el milenio |
 
-La identificación de Gog y Magog con naciones modernas se trata en el documento
-ampliado (§5.4): no es el eje de la refutación a la separación de pueblos y
-pertenece al desarrollo de la propuesta.
+Otras hipotesis interpretativas (como la identificación de Gog y Magog o de los 144.000), un desarrollo
+más completo de la propuesta escatológica, las inferencias etiquetadas y las tensiones abiertas está en
+[`Marco-escatologico-mas-completo-en-desarrollo.md`](Marco-escatologico-mas-completo-en-desarrollo.md).
 
 ### 1.4 Nota de humildad epistemológica
 
@@ -59,17 +49,6 @@ Este documento no afirma que su interpretación sea la única posible ni la "cor
 ### 1.5 Reconocimiento al dispensacionalismo
 
 Reconocemos su esfuerzo por hacer una **interpretación escatológica literal**, esfuerzo que imitamos en este artículo. Nuestro rechazo no es por falta de rigor, sino por sus **frutos de muerte** en lo que vemos hoy en la destrucción en Gaza, Irán, Medio Oriente en general, e incluso en el estado moderno de Israel. La teología no es neutral: produce frutos, y esos frutos deben ser evaluados a la luz de la Escritura (Mt 7:16-20).
-
-**Rechazar el dispensacionalismo no es rechazar la interpretación literal.**
-Este documento aplica el mismo método literalista que el dispensacionalismo
-(incluso en Apocalipsis); lo que no acepta es una de sus hipótesis: que
-Israel y la Iglesia sean dos pueblos con dos planes separados. Si alguien
-comparte el literalismo pero no la separación de pueblos, este marco le habla;
-si comparte la separación de pueblos, el §2 es el punto a refutar.
-
-El desarrollo completo de la propuesta escatológica, las inferencias
-etiquetadas y las tensiones abiertas está en
-[`Marco-escatologico-mas-completo-en-desarrollo.md`](Marco-escatologico-mas-completo-en-desarrollo.md).
 
 ---
 
@@ -87,26 +66,24 @@ El nombre "Israel" no es un apellido étnico heredado: es un **título conferido
 | **Is 48:1-2** | "Oíd esto, casa de Jacob, que os llamáis del nombre de Israel... porque de la santa ciudad se nombran". El profeta distingue al Israel fiel del Israel incrédulo que solo tiene el nombre. |
 
 **Implicaciones**:
-1. El nombre es **relacional**, no étnico. Se da por la relación con Dios (lucha, ruego, prevalece), no por la cadena genealógica.
+1. El nombre es **relacional**, no étnico. Se da por la relación con Dios (lucha, ruego, prevalece), no por la cadena genealógica o una ciudadania terrenal.
 2. La descendencia de Jacob hereda el nombre, pero **no hereda la promesa sin la fe**: los hijos de Jacob que no creen son "hijos de Israel" por nombre, pero no son el "Israel de Dios" (Rom 9:6-8).
 3. El "Israel de Dios" (Gá 6:16) es el que ha pasado de Jacob a Israel, judío o gentil. La promesa a Jacob se cumple en Cristo (2 Cor 1:20), no en un Estado.
 
 ### 2.2 La incorporación por fe en el Antiguo Testamento
 
-La pertenencia al pueblo de Dios siempre se definió por la **fe** y la perseverancia en la revelación divina, no por la genealogía ni la etnia:
+La pertenencia al pueblo de Dios siempre se definió por la **fe** y la perseverancia en la revelación divina:
 
 | Personaje / Grupo | Texto | Cómo entra al pueblo de Dios |
 | :--- | :--- | :--- |
 | **Extranjeros circuncidados** | Gn 17:12-13, 23 | Por la decisión de Abraham, no por la suya; son tipo del anhelo de Dios de incluir a todas las familias de la tierra (Gn 12:3; Is 56:3-8) |
-| **Multitud mixta** | Éx 12:38 | Sale de Egipto con Israel; se une por fe al Dios vivo |
+| **Multitud mixta** | Éx 12:38 | Sale de Egipto con Israel; se une por fe al Dios vivo que salva |
 | **Extranjero residente** | Éx 12:48-49; Nm 15:15-16; Lv 19:33-34 | Circuncidado, es "como uno nacido en la tierra"; una misma ley para nativo y extranjero |
 | **Rahab** | Jos 2; 6:25; Mt 1:5; Heb 11:31 | Cananea y prostituta; cree en el Dios de Israel y es incorporada; está en la genealogía de Jesús |
 | **Caleb** | Nm 32:12; Jos 14:6-14 | Quenezeo (extranjero); sigue a Dios de todo corazón y entra en la tierra prometida |
 | **Rut** | Rt 1:16-17; 4:13-17; Mt 1:5 | Moabita; la ley la excluía (Dt 23:3), pero la gracia de Dios la recibe por la fe; bisabuela de David |
 
 ### 2.3 El "Israel del Norte" conservó el nombre pero no fue el Israel de Dios
-
-Así como el Israel del Norte conservó el nombre "Israel" pero no fue el Israel de Dios, la nación moderna de Israel tiene el nombre pero no es el Israel de Dios.
 
 | Texto | Contenido |
 | :--- | :--- |
@@ -116,7 +93,7 @@ Así como el Israel del Norte conservó el nombre "Israel" pero no fue el Israel
 
 **Aplicación**: La nación moderna de Israel tiene el nombre "Israel", pero eso no la hace el Israel de Dios. El Israel de Dios es el que ha pasado de Jacob a Israel por la fe, judío o gentil (Gá 6:16).
 
-### 2.3b El argumento no es nuestro: también entre judíos
+#### 2.3.1 El argumento no es nuestro: también entre judíos
 
 Este documento no sostiene que Israel deba carecer de tierra ni que el pueblo
 judío no tenga derecho a vivir en ella. Sostiene algo más limitado: que **el
@@ -169,9 +146,8 @@ pueblo, desde distintas corrientes, cuestiona.
 | **Gá 6:16** | Pablo llama a la iglesia "el Israel de Dios". |
 | **Rom 11:17-24** | El olivo es uno; las ramas naturales fueron cortadas por incredulidad y pueden ser reinjertadas por fe; las ramas silvestres fueron injertadas por fe. |
 | **Ef 2:14-16** | Cristo hizo de ambos pueblos uno solo, derribando la pared intermedia de separación. |
-| **1 P 2:9-10** | La iglesia es "linaje escogido, real sacerdocio, nación santa", títulos que antes eran de Israel. |
 
-**Textos de donde provienen esos títulos** (el NT los aplica a la iglesia):
+**Textos de donde provienen los títulos de 1 Pedro 2:9-10** (el NT los aplica a la iglesia):
 
 | Título | Origen en el AT | Aplicación en 1 P 2:9 |
 | :--- | :--- | :--- |
@@ -195,25 +171,20 @@ pueblo, desde distintas corrientes, cuestiona.
 | El Estado moderno de Israel **coopta** el nombre y las promesas sin la fe | Inferencia teológica (por el patrón de Is 48:1-2 y del Israel del Norte; cf. §2.3) |
 | Los santos del AT resucitan en el juicio final | Inferencia teológica (Dn 12:2; Ap 20:11-15) |
 
-**Nota sobre el "Israel étnico":** el dispensacionalismo habla de un "Israel
-étnico", pero la Escritura no sostiene una etnia pura: la esposa de Jacob
-(Lea, Raquel, Bilha, Zilpa) no era su descendiente; Rahab (cananea) y Rut
-(moabita) están en la genealogía de David y de Jesús (Mt 1:5); Caleb era
-quenezeo; la multitud mixta salió de Egipto con Israel (Éx 12:38), y la casa
-de Jacob se mezcló con los pueblos de Canaán. Inferir "Israel étnico" es, por
-tanto, una construcción teológica sin base textual: el nombre se hereda
-culturalmente, pero la pertenencia al Israel de Dios es por fe.
-
-Lo que el §3 refuta no es esa etnia inexistente, sino la **superioridad
-espiritual** que el sionismo atribuye al Estado moderno de Israel.
+No nos referimos a **"Israel étnico"** que no existe en la Escritura ni
+en la ciencia (el genetista Robert Pollack dijo "No hay secuencias de ADN comunes
+a todos los judíos y ausentes de todos los no judíos. No hay nada en el genoma humano
+que haga o diagnostique a una persona como judía." https://forward.com/opinion/9406/the-fallacy-of-biological-judaism/ ),
+lo que refutamos es la **superioridad espiritual** que el sionismo atribuye al
+Estado moderno de Israel.
 
 ### 2.7 El deseo de Dios para toda la humanidad y el desierto como tipo
 
-La Escritura afirma que el deseo de Dios es que **todos** los hombres se salven y lleguen al conocimiento de la verdad (1 Timoteo 2:4; 2 Pedro 3:9; Ezequiel 33:11). Ese deseo no está limitado a una etnia, sino que abarca a toda la humanidad (Génesis 12:3; Isaías 49:6; Mateo 28:19; Hechos 1:8).
+La Escritura afirma que el deseo de Dios es que **todos** los hombres se salven y lleguen al conocimiento de la verdad (1 Timoteo 2:4; 2 Pedro 3:9; Ezequiel 33:11). Ese deseo no está limitado a un grupo, sino que abarca a toda la humanidad (Génesis 12:3; Isaías 49:6; Mateo 28:19; Hechos 1:8).
 
 El **Israel en el desierto** es el **tipo** de esta realidad: Dios quería que **todos** los que salieron de Egipto entraran en la tierra prometida, pero **solo entraron los que tuvieron fe y aceptaron** (Números 13:30-33; 14:1-10; 14:20-24; Josué 14:6-14). La generación incrédula quedó en el desierto (Números 14:29-30; Hebreos 3:16-19), y solo Caleb y Josué, que creyeron, entraron (Números 32:12; Deuteronomio 1:36).
 
-**Lo que cuenta no es ningún tipo de división** que incluso Dios mismo haya producido para mantener viva su palabra entre los hombres, sino **la fe**. La división entre el Israel del Norte y el Israel del Sur (1 Reyes 12), la división entre judíos y gentiles (Efesios 2:14-16), la división entre el Israel étnico y la Iglesia (Gálatas 6:16) —ninguna de esas divisiones es el criterio de pertenencia al pueblo de Dios. **El criterio es la fe**, y esa fe es la que hace que el deseo universal de Dios se cumpla en quienes creen.
+**Lo que cuenta no es ningún tipo de división** que incluso Dios mismo haya producido para mantener viva su palabra entre los hombres, sino **la fe**. La división entre los israelitas en el desierto, el Israel del Norte y el Israel del Sur (1 Reyes 12), la división entre judíos y gentiles (Efesios 2:14-16), la división entre la nación moderna de Israel y la Iglesia (Gálatas 6:16) —ninguna de esas divisiones es el criterio de pertenencia al pueblo de Dios. **El criterio es la fe**, y esa fe es la que hace que el deseo universal de Dios se cumpla en quienes creen.
 
 ### 2.8 Criterio de falsación de este capítulo
 

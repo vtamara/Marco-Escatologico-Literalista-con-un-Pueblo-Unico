@@ -16,10 +16,6 @@ el Israel de Dios (Gá 6:16), el olivo es uno (Rom 11:17-24), el templo físico
 cesó (Mt 24:1-2; Jn 2:19-21), y el milenio es el reinado de Cristo sobre todas
 las naciones, no una era de dominio del Estado moderno de Israel.
 
-En la práctica, esa distinción se traduce en el **apoyo cristiano al Estado
-moderno de Israel** como si fuera el sujeto de las promesas. Es a ese apoyo —y a
-la teología que lo sostiene— a lo que este documento responde.
-
 ### 1.2 Tesis central
 
 1. **Un solo pueblo de Dios**: judíos y gentiles unidos por la fe en Cristo (Gá 3:28-29; Ef 2:14-16).

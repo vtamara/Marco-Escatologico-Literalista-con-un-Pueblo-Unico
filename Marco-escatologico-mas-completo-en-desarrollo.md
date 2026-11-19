@@ -196,6 +196,13 @@ concilie (cf. §5.8.6).
    - **Texto bíblico**: hay guerra en el cielo, y el dragón con sus ángeles es arrojado a la tierra (`ἐβλήθη εἰς τὴν γῆν ... καὶ οἱ ἄγγελοι αὐτοῦ ἐβλήθησαν μετ' αὐτοῦ`, Ap 12:9). Que sea futuro es la lectura (R) del marco.
    - **Distinción con el Tártaro (§5.7)**: los de 2 P 2:4 y Judas 6 están recluidos "reservados para juicio" (`εἰς κρίσιν τετηρημένους`), mientras que los de Ap 12 son arrojados a la tierra. El texto no da la cronología que concilie ambos pasajes.
 7. **El templo de Ezequiel 40-48**: Visión tipológica que apunta a Cristo y a la nueva creación (Ap 21:22), no un plano literal para el milenio.
+8. **Testimonios de ángeles en guerras modernas**: Circulan relatos de soldados que afirman haber visto ángeles combatiendo junto a Israel en 1948, 1967 y 1973.
+   - **Texto bíblico**: Satanás se disfraza de ángel de luz (2 Co 11:14), y el criterio de una misión divina nunca fue la señal sino la orden profética verificable (Dt 13:1-3; 18:21-22). Después de Cristo, todo espíritu debe confesar a Jesús venido en carne (1 Jn 4:1-3).
+   - **Inferencia**: el texto no permite identificar manifestaciones espirituales en conflictos modernos, ni a favor ni en contra. Afirmar que eran ángeles de Dios, o que eran ángeles caídos, es en ambos casos una inferencia sobre la que la Escritura guarda silencio.
+   - **Estado de la evidencia**: los relatos son de segunda o tercera mano, sin testigos identificables ni respaldo de archivos militares; las fuentes son mayoritariamente devocionales. El caso análogo mejor estudiado —los "Ángeles de Mons" (1914)— resultó originado en un cuento de ficción de Arthur Machen que se tomó por testimonio real (Clarke, *Rumours of Angels*, Folklore 2004).
+   - **Contexto histórico documentado**: la guerra psicológica ha usado el miedo sobrenatural como arma. Casos verificables: la operación estadounidense *Wandering Soul* en Vietnam (grabaciones que simulaban voces de espíritus para atemorizar al adversario) y el programa *Ghost Army* de la Segunda Guerra Mundial (señuelos y engaños acústicos). Se citan solo como **precedentes documentados de que los relatos en combate pueden ser inducidos o amplificados**, no como explicación del caso israelí, para el cual no hay evidencia.
+   - **Cautela metodológica**: no se afirma ni insinúa que estos relatos provengan de manipulación deliberada, ni que haya infiltración de agendas en iglesias o denominaciones concretas. Tales afirmaciones exigirían fuentes primarias verificables, y el marco no las tiene. El argumento del documento no depende de ellas: basta mostrar que el **criterio** para validar una misión divina es profético y bíblico, no experiencial.
+   - **Uso en este marco**: no se emplea como argumento. El criterio sigue siendo profético y bíblico (cf. README §3.3).
 
 ### 5.9 Criterios para continuar
 
@@ -221,7 +228,31 @@ Aquí se puede añadir un mecanismo para incorporar otras profecías que se estu
 
 ---
 
-## 7. Referencias bibliográficas
+## 7. Refutaciones particulares
+
+#### 7.1 Chuck Smith
+
+| Punto | Chuck Smith | Nuestro marco |
+| :--- | :--- | :--- |
+| **Rapto pretribulacional** | Sí | **Sí** |
+| **Iglesia librada de la ira** | Sí | **Sí** (1 Ts 5:9; Rom 5:9) |
+| **Iglesia librada de toda tribulación/persecución** | Sí (implícito) | **No** (la Iglesia sufre persecución ahora: Jn 16:33; Hch 14:22; 2 Ti 3:12) |
+| **Israel y la Iglesia** | Dos pueblos separados | **Un solo pueblo** (Gá 6:16; Ef 2:14-16) |
+| **Los santos de Apocalipsis** | Solo judíos | **Judíos y gentiles creyentes** (el remanente de la tribulación) |
+| **La "mujer" de Apocalipsis 12** | Israel étnico | **El remanente fiel** (judíos y gentiles conversos) |
+| **El "último trompeta"** | Trompeta de Dios, distinta del séptimo ángel | **Distinción correcta**, pero no exagerada |
+| **Posibilidad de un "Israel étnico" desde el AT** | Sí, pero separado de la Iglesia | **No**: el Israel del AT es el mismo pueblo de Dios que en Cristo es la Iglesia (Rom 9:6-8; Gá 6:16) |
+
+#### 7.2 Espacio para añadir más adelante
+
+En futuras sesiones se pueden añadir refutaciones a:
+- **Dispensacionalismo progresivo** (Bock, Blaising, Saucy)
+- **Autores sionistas cristianos** (Hagee, Lindsey, LaHaye)
+- **Teología del reemplazo** (como contraste: nosotros afirmamos el cumplimiento, no el reemplazo)
+
+
+
+## 8. Referencias bibliográficas
 
 - [RV1960] Biblia. Traducción Reina Valera 1960. https://biblegateway.com
 - Bruce, F.F. *Bible History Atlas*. (Cronología aproximada para el período patriarcal y el Éxodo).

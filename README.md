@@ -21,17 +21,21 @@ Este documento presenta un marco escatológico **premilenial pretribulacional** 
 
 **Se conserva el método literalista** de interpretación, incluido Apocalipsis
 (milenio literal de 1000 años, tribulación de 7 años, Daniel 9:27 como semana
-de años, segunda venida al final de la tribulación). **Se rechaza una
-conclusión** de ese método, no el método: la separación entre Israel y la
-Iglesia como dos pueblos con dos planes distintos.
+de años, segunda venida al final de la tribulación). **Se rechaza una hipótesis
+interpretativa** construida sobre ese método, no el método: que Israel y la
+Iglesia sean dos pueblos con dos planes distintos.
 
-| **Se conserva (método literalista)** | **Se rechaza (conclusión, no método)** |
+| **Se conserva (método literalista)** | **Se rechaza (hipótesis interpretativa)** |
 | :--- | :--- |
 | Rapto pretribulacional | Separación Israel/Iglesia como dos pueblos con dos planes |
 | Tribulación de 7 años | Sionismo teológico |
-| Milenio literal de 1000 años | Identificación de Gog y Magog con naciones modernas |
+| Milenio literal de 1000 años | Superioridad espiritual del Estado moderno de Israel |
 | Daniel 9:27 como semana de años | Afirmación de que los santos del AT resucitan al inicio del milenio |
 | Segunda venida al final de la tribulación | Restauración de sacrificios levíticos en el milenio |
+
+La identificación de Gog y Magog con naciones modernas se trata en el documento
+ampliado (§5.4): no es el eje de la refutación a la separación de pueblos y
+pertenece al desarrollo de la propuesta.
 
 ### 1.4 Nota de humildad epistemológica
 
@@ -43,7 +47,7 @@ Reconocemos su esfuerzo por hacer una **interpretación escatológica literal**,
 
 **Rechazar el dispensacionalismo no es rechazar la interpretación literal.**
 Este documento aplica el mismo método literalista que el dispensacionalismo
-(incluso en Apocalipsis); lo que no acepta es una de sus conclusiones: que
+(incluso en Apocalipsis); lo que no acepta es una de sus hipótesis: que
 Israel y la Iglesia sean dos pueblos con dos planes separados. Si alguien
 comparte el literalismo pero no la separación de pueblos, este marco le habla;
 si comparte la separación de pueblos, el §2 es el punto a refutar.
@@ -78,7 +82,7 @@ La pertenencia al pueblo de Dios siempre se definió por la **fe** y la persever
 
 | Personaje / Grupo | Texto | Cómo entra al pueblo de Dios |
 | :--- | :--- | :--- |
-| **Extranjeros circuncidados** | Gn 17:12-13, 23 | Por la fe de Abraham, la circuncisión los incorpora al pacto |
+| **Extranjeros circuncidados** | Gn 17:12-13, 23 | Por la decisión de Abraham, no por la suya; son tipo del anhelo de Dios de incluir a todas las familias de la tierra (Gn 12:3; Is 56:3-8) |
 | **Multitud mixta** | Éx 12:38 | Sale de Egipto con Israel; se une por fe al Dios vivo |
 | **Extranjero residente** | Éx 12:48-49; Nm 15:15-16; Lv 19:33-34 | Circuncidado, es "como uno nacido en la tierra"; una misma ley para nativo y extranjero |
 | **Rahab** | Jos 2; 6:25; Mt 1:5; Heb 11:31 | Cananea y prostituta; cree en el Dios de Israel y es incorporada; está en la genealogía de Jesús |
@@ -105,6 +109,7 @@ Así como el Israel del Norte conservó el nombre "Israel" pero no fue el Israel
 | **Jn 2:19-21** | Jesús se declara Él mismo como el templo: "Destruid este templo, y en tres días lo levantaré". |
 | **1 Co 3:16; 6:19; Ef 2:19-22** | El templo es ahora el cuerpo del creyente y la iglesia. |
 | **Mt 21:18-22; Mc 11:12-14** | La higuera seca: parábola profética del juicio sobre Israel infructuoso. |
+| **Os 9:10; Jl 1:7; Mi 7:1; Lc 13:6-9** | La higuera y la viña como imagen del Israel del pacto: si no da fruto, se seca y se corta. |
 
 **Implicación**: El templo físico cesó como centro del pacto con la destrucción anunciada por Jesús (70 d.C.) y con su sustitución por Cristo mismo. No hay profecía bíblica que autorice un tercer templo físico ni para la era presente ni para el milenio.
 
@@ -118,6 +123,15 @@ Así como el Israel del Norte conservó el nombre "Israel" pero no fue el Israel
 | **Ef 2:14-16** | Cristo hizo de ambos pueblos uno solo, derribando la pared intermedia de separación. |
 | **1 P 2:9-10** | La iglesia es "linaje escogido, real sacerdocio, nación santa", títulos que antes eran de Israel. |
 
+**Textos de donde provienen esos títulos** (el NT los aplica a la iglesia):
+
+| Título | Origen en el AT | Aplicación en 1 P 2:9 |
+| :--- | :--- | :--- |
+| "linaje escogido" (\`γένος ἐκλεκτόν\`) | Is 43:20 (\`γένος μου τὸ ἐκλεκτόν\` LXX) | La iglesia |
+| "real sacerdocio" (\`βασίλειον ἱεράτευμα\`) | Éx 19:6; 23:22 LXX | La iglesia |
+| "nación santa" (\`ἔθνος ἅγιον\`) | Éx 19:6; Dt 7:6 | La iglesia |
+| "pueblo adquirido" (\`λαὸς εἰς περιποίησιν\`) | Is 43:21; Éx 19:5 | La iglesia |
+
 ### 2.6 Tabla de estatus: texto vs. inferencia
 
 | Afirmación | Sustento bíblico / Naturaleza |
@@ -130,7 +144,20 @@ Así como el Israel del Norte conservó el nombre "Israel" pero no fue el Israel
 | La Iglesia es el Israel de Dios (Gá 6:16) | Texto bíblico (Gá 6:16) |
 | El olivo es uno (Rom 11:17-24) | Texto bíblico (Rom 11:17-24) |
 | Distinción entre el Israel bíblico y el Estado moderno | Inferencia teológica |
+| El Estado moderno de Israel **coopta** el nombre y las promesas sin la fe | Inferencia teológica (por el patrón de Is 48:1-2 y del Israel del Norte; cf. §2.3) |
 | Los santos del AT resucitan en el juicio final | Inferencia teológica (Dn 12:2; Ap 20:11-15) |
+
+**Nota sobre el "Israel étnico":** el dispensacionalismo habla de un "Israel
+étnico", pero la Escritura no sostiene una etnia pura: la esposa de Jacob
+(Lea, Raquel, Bilha, Zilpa) no era su descendiente; Rahab (cananea) y Rut
+(moabita) están en la genealogía de David y de Jesús (Mt 1:5); Caleb era
+quenezeo; la multitud mixta salió de Egipto con Israel (Éx 12:38), y la casa
+de Jacob se mezcló con los pueblos de Canaán. Inferir "Israel étnico" es, por
+tanto, una construcción teológica sin base textual: el nombre se hereda
+culturalmente, pero la pertenencia al Israel de Dios es por fe.
+
+Lo que el §3 refuta no es esa etnia inexistente, sino la **superioridad
+espiritual** que el sionismo atribuye al Estado moderno de Israel.
 
 ### 2.7 El deseo de Dios para toda la humanidad y el desierto como tipo
 
@@ -166,62 +193,110 @@ Charles C. Ryrie fijó en 1965 los tres elementos que, según él, definen a un 
 | Habrá un tercer templo físico en el milenio, con restauración de sacrificios. | El templo cesó (Mt 24:1-2; Jn 2:19-21). Cristo es el templo (Ap 21:22). |
 | El milenio es una era de dominio étnico judío con restauración del templo y la ley. | El milenio es el reinado de Cristo sobre todas las naciones (Ap 20:4-6; Is 65:20-25). |
 
-### 3.3 Por qué es la objeción central
+### 3.3 Las guerras del AT no autorizan guerras modernas
+
+Es frecuente justificar operaciones militares del Estado moderno de Israel con
+las guerras de la conquista o con las campañas de Saúl y David. El texto no
+permite ese traslado, por cinco razones.
+
+**1. Cada guerra del AT tuvo orden profética explícita.** No hubo guerra santa
+sin mandato directo de Dios a un profeta reconocido: Josué (Jos 1:1-9),
+Samuel a Saúl (1 S 15:1-3), Gad y Natán a David (2 S 7:1-17). Saúl fue
+**rechazado** precisamente por no ejecutar la orden (1 S 15:22-23). El criterio
+no era «somos el pueblo», sino «Dios lo ordenó por boca de su profeta».
+
+**2. Dios mismo combatía, con señales que nadie podía reclamar.** El mar Rojo
+(Éx 14:21-22), el Jordán (Jos 3:14-17), el sol detenido (Jos 10:12-14), el
+trueno sobre los filisteos (1 S 7:10). Eran operaciones directas de Dios, no
+solo victorias militares interpretadas como milagro.
+
+**3. El alcance estaba limitado y el motivo declarado.** Las guerras de
+conquista se limitaron a las naciones de Canaán por el colmo de su maldad
+(Gn 15:16; Lv 18:24-28; Dt 9:4-5; Dt 20:16-18). No fue un deseo de sangre de
+Dios, sino juicio acumulado, y no por justicia de Israel («no por tu justicia»,
+Dt 9:4-5).
+
+**4. El propósito histórico ya se cumplió en Cristo.** Preservar al pueblo que
+llevaría la Ley escrita (Rom 3:2) y sería matriz del Mesías (Rom 9:4-5;
+Gá 3:24). Cumplido eso, no queda una función pendiente que exigiría un nuevo
+pueblo territorial.
+
+**5. Después de Jesús el criterio profético cambia y la fuerza ya no es el
+medio.** No hay en el NT ninguna profecía que ordene guerra:
+
+| Texto | Qué establece |
+| :--- | :--- |
+| **Mt 26:52** | «Todos los que tomen espada, a espada perecerán» (\`πάντες γὰρ οἱ λαβόντες μάχαιραν ἐν μαχαίρᾳ ἀπολοῦνται\`) — dicho al defenderlo a Él mismo |
+| **Jn 18:36** | «Mi reino no es de este mundo; si de este mundo fuera, mis servidores pelearían» (\`οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο ἄν\`) — el reino no se defiende con fuerza |
+| **2 Co 10:4** | «Las armas de nuestra milicia no son carnales» (\`τὰ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικά\`) |
+| **Mt 5:21-22** | El sexto mandamiento se profundiza hasta el enojo y el insulto (\`ὁ ὀργιζόμενος\` … \`ῥακά\` … \`μωρέ\`) |
+| **Heb 1:1-2** | «En estos postreros días nos ha hablado por el Hijo» — la revelación normativa es Cristo |
+| **1 Jn 4:1-3** | El criterio para todo espíritu o profeta: confesar a Jesús venido en carne |
+
+**Conclusión.** «No matarás» (Éx 20:13) sigue vigente. Las excepciones del AT
+fueron mandatos puntuales, verificables y cumplidos. Jesús no solo no las
+extendió: las hizo más improbables al condenar el enojo mismo (Mt 5:22) y al
+negar el uso de la espada incluso en su propia defensa (Mt 26:52). El pacto
+nuevo no requiere fuerza para llevar el evangelio: el testimonio se da en
+libertad y amor, como Él lo dio y lo ordenó (Jn 13:34-35; Mt 28:19-20).
+
+**Inferencia teológica:** quien invoque la conquista para justificar
+operaciones militares modernas debe mostrar (a) profeta reconocido con orden
+explícita, (b) señal acompañante verificable, (c) alcance y motivo declarados
+por Dios. Sin esos tres, el traslado no tiene base bíblica. Y después de
+Cristo, el criterio (a) queda además sujeto a 1 Jn 4:1-3.
+
+### 3.4 Por qué es la objeción central
 
 Sin la distinción Iglesia/Israel étnico, todo el sistema dispensacionalista se cae: no hay dos planes, no hay paréntesis, no hay tercer templo, no hay milenio étnico. Refutar esta distinción es atacar el fundamento del dispensacionalismo, no una de sus ramas.
 
-### 3.4 Refutaciones particulares
+### 3.5 Objeciones frecuentes
 
-#### 3.4.1 Chuck Smith
+Argumentos que suelen escucharse en defensa del apoyo cristiano a operaciones
+militares del Estado moderno de Israel, con su respuesta desde el texto.
 
-| Punto | Chuck Smith | Nuestro marco |
-| :--- | :--- | :--- |
-| **Rapto pretribulacional** | Sí | **Sí** |
-| **Iglesia librada de la ira** | Sí | **Sí** (1 Ts 5:9; Rom 5:9) |
-| **Iglesia librada de toda tribulación/persecución** | Sí (implícito) | **No** (la Iglesia sufre persecución ahora: Jn 16:33; Hch 14:22; 2 Ti 3:12) |
-| **Israel y la Iglesia** | Dos pueblos separados | **Un solo pueblo** (Gá 6:16; Ef 2:14-16) |
-| **Los santos de Apocalipsis** | Solo judíos | **Judíos y gentiles creyentes** (el remanente de la tribulación) |
-| **La "mujer" de Apocalipsis 12** | Israel étnico | **El remanente fiel** (judíos y gentiles conversos) |
-| **El "último trompeta"** | Trompeta de Dios, distinta del séptimo ángel | **Distinción correcta**, pero no exagerada |
-| **Posibilidad de un "Israel étnico" desde el AT** | Sí, pero separado de la Iglesia | **No**: el Israel del AT es el mismo pueblo de Dios que en Cristo es la Iglesia (Rom 9:6-8; Gá 6:16) |
+| Objeción | Respuesta |
+| :--- | :--- |
+| «Las guerras del AT autorizan las de hoy» | Falta el elemento indispensable: mandato de Dios a un profeta reconocido y verificable (1 S 15:1-3; Dt 18:21-22). Saúl fue rechazado por no cumplir la orden (1 S 15:22-23). Dt 20:16-18 limita esas guerras a las naciones de Canaán, por el colmo de su maldad (Gn 15:16), no a cualquier guerra posterior. |
+| «Gaza hoy es como Hai y las ciudades de la conquista» | Jos 6:2 y Jos 8:1 comienzan con «Yahvé dijo a Josué». Sin esa palabra verificable, el paralelo no existe. Y el juicio sobre Canaán fue puntual, anunciado siglos antes (Gn 15:16) y ejecutado una vez. |
+| «Ya pasó el tiempo de la humildad; ahora hay que imponerse» | No hay en el NT ninguna dispensación en la que la humildad deje de aplicar: Mt 5:5; Mt 11:29; Fil 2:5-11 (la humildad de Cristo es el modelo, no una etapa); 1 P 5:6; Stg 3:17-18 («la sabiduría de lo alto es primeramente pura, después pacífica»). La imposición se asocia a los reinos de este mundo (Lc 22:25-26), no al reino de Cristo. |
+| «No se pueden dar cifras de muertos en Palestina» | La Escritura cuenta: Nm 31:7-8; Jos 10:26-27; 2 S 8:2; 1 Cr 21:5, 14. Pedir transparencia no es falta de amor: Prov 31:8-9 manda abrir la boca por los desvalidos. |
+| «Hubo ángeles peleando por Israel en las guerras modernas» | La señal nunca fue el criterio: Dt 13:1-3 advierte que una señal cumplida no valida una misión contraria a Dios, y 2 Co 11:14 avisa que Satanás se disfraza de ángel de luz. Además, los relatos son de segunda o tercera mano, sin testigos identificables ni archivos (ver documento ampliado, §5.8.8). |
+| «Apoyar a los veteranos y a las fuerzas armadas es honrar lo que Dios honra» | Honrar a las personas (Rom 13:7) es distinto de bendecir un sistema. Nuestra ciudadanía está en los cielos (Fil 3:20) y las armas de nuestra milicia no son carnales (2 Co 10:4). |
 
-#### 3.4.2 Espacio para añadir más adelante
+**Cómo dialogar.** No se pide a nadie abandonar su amor por Israel, su
+literalismo ni su gratitud a quienes sirvieron. Se pide examinar dos cosas:
+si el fruto de la postura es pacífico (Stg 3:17-18) y si el mandato de
+humildad sigue vigente (Fil 2:5-11; 1 P 5:6). Ninguna de las dos se resuelve
+con un sistema escatológico.
 
-En futuras sesiones se pueden añadir refutaciones a:
-- **Dispensacionalismo progresivo** (Bock, Blaising, Saucy)
-- **Autores sionistas cristianos** (Hagee, Lindsey, LaHaye)
-- **Teología del reemplazo** (como contraste: nosotros afirmamos el cumplimiento, no el reemplazo)
+### 3.6 Refutaciones particulares
 
-### 3.5 Criterio de falsación de este capítulo
+Las refutaciones a autores concretos (Chuck Smith, dispensacionalismo
+progresivo, autores sionistas cristianos) están en el documento ampliado,
+§7.
 
-Si se muestra que el dispensacionalismo es correcto en su distinción Iglesia/Israel, este capítulo se cae.
+### 3.7 Criterio de falsación de este capítulo
 
-### 3.6 Nota sobre el anexo
+1. **Distinción Iglesia/Israel**: si se muestra que el dispensacionalismo es correcto en su distinción Iglesia/Israel étnico, este capítulo se cae.
+2. **Guerras del AT (§3.3)**: si se muestra una profecía del NT que ordene una guerra, o un criterio neotestamentario que autorice tomar la espada para el reino, el §3.3 se cae.
+
+### 3.8 Nota sobre el anexo
 
 Aquí se puede añadir un mecanismo para incorporar otras profecías o autores que se estudien en el futuro. El formato de fila sería: **Profecía/Autor | Texto | Fecha relativa | Cómo encaja | Tensión o duda**.
 
 ---
-## 4. La propuesta escatológica completa
+## 4. Propuesta escatológica
 
-Este documento breve se centra en el **pueblo único de Dios** y en la
-refutación al dispensacionalismo. El desarrollo completo de la propuesta
-escatológica (etapas 1-23, resurrección en tres fases, milenio, encaje de
-Mateo 24-25, la mujer de Ap 12, Gog y Magog, los 144.000 y los dos testigos,
-Joel 3, el Hades/Tártaro y las tensiones abiertas) está en:
+El marco conserva el método literalista: premilenialismo, tribulación de 7 años
+con rapto pretribulacional, milenio literal de 1000 años y Daniel 9:27 como
+semana de años. Lo que cambia es **una hipótesis de ese método**: no hay dos
+pueblos con dos planes, sino uno solo, definido por la fe en Cristo.
+
+El desarrollo completo (etapas, resurrección en tres fases, milenio, encaje de
+profecías, tensiones abiertas y refutaciones a autores concretos) está en:
 
 **[`Marco-escatologico-mas-completo-en-desarrollo.md`](Marco-escatologico-mas-completo-en-desarrollo.md)**
-
-Allí cada afirmación se etiqueta como *Texto bíblico* o *Inferencia teológica*,
-y se declara abiertamente dónde el texto no dice algo.
-
-**En resumen, el marco conserva el método literalista:** premilenialismo,
-tribulación de 7 años con rapto pretribulacional, milenio literal de 1000 años
-y Daniel 9:27 como semana de años. Lo que cambia es **una conclusión**: no hay
-dos pueblos con dos planes, sino uno solo, definido por la fe en Cristo.
-
-Si el lector comparte el literalismo y la separación de pueblos, el punto a
-refutar es el §2. Si comparte el literalismo sin la separación, este marco le
-resulta familiar.
 
 ---
 
@@ -237,7 +312,7 @@ resulta familiar.
    genealógico y no relacional (Gn 32:28; Os 12:4), el §2 se cae.
 
 Los criterios de falsación de la propuesta ampliada (resurrección en tres
-fases, milenio, Gog y Magog) están en el documento ampliado, §6.
+fases, milenio) están en el documento ampliado, §6.
 
 ---
 

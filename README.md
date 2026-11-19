@@ -270,18 +270,162 @@ si el fruto de la postura es pacífico (Stg 3:17-18) y si el mandato de
 humildad sigue vigente (Fil 2:5-11; 1 P 5:6). Ninguna de las dos se resuelve
 con un sistema escatológico.
 
-### 3.6 Refutaciones particulares
+### 3.6 Consecuencia práctica: el sionismo cristiano
+
+El dispensacionalismo no es solo una hipótesis escatológica: tiene
+consecuencias éticas verificables.
+
+**a) La separación de pueblos como premisa confesada.** En *The Calvary Chapel
+Distinctives*, Chuck Smith formula el núcleo del sistema con claridad:
+
+> «The reason some people get their prophetic scenarios confused is because
+> they spiritualize and make the church Israel. They say, "God is through with
+> the nation of Israel because they rejected the Messiah." They believe that
+> God has discarded Israel and replaced it with the church, and the church is
+> now "the Israel of God." [...] When you do that, it confuses the whole
+> prophetic picture!»
+
+Y añade: «The church is the elect, but Israel is also the elect», para concluir:
+«If the sun came up this morning, then God's covenant with Israel still
+stands [...] God is not through with Israel».
+
+**Lo que esto muestra:** la separación de pueblos no es un detalle secundario;
+es la premisa que sostiene todo el sistema profético. Retirarla no «confunde el
+cuadro profético»: lo simplifica. Hay un solo pueblo, y su criterio es la fe
+(Gá 6:16; Rom 9:6-8).
+
+**b) La cronología como motor del sionismo.** En *End Times: A Report on Future
+Survival* (1978), p. 35, Smith escribe:
+
+> «Since a generation of judgment is forty years and the Tribulation period
+> lasts seven years, I believe the Lord could come back for His Church any time
+> before the Tribulation starts, which would mean any time before 1981.
+> (1948 + 40 − 7 = 1981).»
+
+El Estado de 1948 no era un dato periférico: era **la premisa del cálculo**. Si
+Israel no cumple la higuera de Mt 24:32-34, el esquema se derrumba. Esa es la
+razón estructural de un sionismo tan marcado: la escatología depende de que el
+Estado moderno sea sujeto permanente del plan divino.
+
+**c) La erosión de la ética pacifista, documentada.** Ken Bechtel, «A
+Premillennialist Pacifism: The Canadian Swiss Mennonite Peace Position»,
+*Journal of Mennonite Studies* 25 (2007), 89-106, documenta que menonitas suizos
+de Ontario adoptaron el premilenialismo dispensacionalista durante la Segunda
+Guerra Mundial y que esa teología, en algunos casos, introdujo una
+«racionalización y justificación de la violencia por parte del Estado»,
+erosionando su ética pacifista tradicional.
+
+**El mecanismo es siempre el mismo:** si el Sermón del Monte pertenece al
+milenio futuro y no a esta era, queda un espacio autónomo donde la violencia
+estatal no se juzga con la ética de Jesús. Viene de dentro de la propia
+tradición menonita, lo que lo hace especialmente significativo para nosotros.
+
+**d) Lo que hoy dicen los órganos internacionales.** No es una opinión:
+
+| Órgano | Qué determinó |
+| :--- | :--- |
+| **CIJ** (26 ene 2024; reiterada y ampliada el 24 may 2024) | Consideró **«plausible»** el riesgo de actos contrarios a la Convención sobre el Genocidio y dictó medidas provisionales |
+| **CPI** (21 nov 2024) | Emitió órdenes de arresto por crímenes de guerra (hambre como método de guerra) y crímenes de lesa humanidad |
+| **Comisión Independiente de Investigación de la ONU** (A/HRC/60/CRP.3, 16 sep 2025) | Concluyó que se cometieron cuatro de los cinco actos del artículo II de la Convención y que existió intención genocida |
+
+**Por qué esto importa al argumento teológico:** quien justifica estas
+operaciones con las guerras de la conquista está afirmando —implícitamente—
+que Dios las ordenó. Pero esas guerras tuvieron mandato profético verificable y
+límite declarado (Dt 20:16-18; cf. §3.3). Sin esos elementos, y con estas
+determinaciones judiciales sobre la mesa, la reclamación de autorización divina
+no se sostiene.
+
+### 3.7 El eslabón que falta: los cristianos de Tierra Santa
+
+Todo lo anterior podría discutirse como teología abstracta. Deja de serlo
+cuando se considera quiénes son las personas afectadas: **entre los habitantes
+de Gaza, Cisjordania, Líbano e Irán hay cristianos**, hermanos en la fe. No son
+una minoría irrelevante:
+
+| Lugar | Presencia cristiana |
+| :--- | :--- |
+| **Líbano** | El país con mayor proporción de cristianos de la región; el presidente, por el pacto nacional, es siempre cristiano maronita, y hay comunidades maronita, ortodoxa griega, melquita, armenia, siríaca y protestante |
+| **Cisjordania** | Comunidades en Belén, Beit Sahour, Beit Jala, Ramala, Jerusalén; entre ellas la Iglesia Luterana de Navidad, de donde es pastor Munther Isaac |
+| **Gaza** | Una de las comunidades cristianas más antiguas del mundo, hoy reducida y desplazada |
+| **Irán** | Minorías armenia y asiria reconocidas constitucionalmente, con escaños reservados en el parlamento; además, **iglesias clandestinas** de creyentes de origen musulmán, que se reúnen en casas y enfrentan riesgo real de detención |
+
+Cuando se invoca un juicio divino sobre una de estas regiones, se está hablando
+de **hermanos en la fe**, no de una categoría geopolítica abstracta. Y en el
+caso de Irán, la situación agrava el problema: una guerra sobre ese país alcanza
+también a creyentes que ya viven bajo persecución, para quienes la iglesia
+visible no existe y el templo es una casa prestada.
+
+No se trata de que una nación sea más cristiana que otra, ni de justificar
+violencia por la composición religiosa de un país. Se trata de lo contrario:
+**la presencia de hermanos no convierte a un pueblo en blanco legítimo, y su
+deshumanización no se vuelve aceptable porque encaje en un esquema profético.**
+
+El pastor luterano **Munther Isaac** (Iglesia Luterana de Navidad, Belén;
+decano académico del Bethlehem Bible College; director de las conferencias
+Christ at the Checkpoint) lo formula así: los cristianos palestinos son «el
+elemento ausente» del relato; muchos evangélicos occidentales «se sorprenden al
+descubrir que existen cristianos palestinos». Y señala la consecuencia
+práctica: relacionarse con las personas «como objetos de fantasías
+escatológicas, no como vecinos».
+
+Isaac describe además las «cuatro suposiciones» del sionismo cristiano, que
+dice tomar de declaraciones oficiales de iglesias y líderes:
+
+1. El pacto abrahámico continúa con el pueblo judío actual y, por asociación,
+   con el Estado de Israel.
+2. La creación del Estado de Israel (1948) es «señal de la fidelidad de Dios al
+   pueblo judío» o cumplimiento de profecía.
+3. Génesis 12:3 («bendeciré a los que te bendigan») aplicado a un **Estado
+   secular**: quien bendice a Israel será bendecido. Isaac lo llama
+   «manipulación religiosa 101 con fines políticos».
+4. La tierra pertenece al pueblo judío como posesión eterna y por derecho
+   divino.
+
+**Lo que esto muestra:** cuando se dice que Gaza es como Hai, se está
+afirmando —se quiera o no— que Dios ordenó destruir a personas entre las que
+hay hermanos. Eso contradice:
+
+| Texto | Mandato |
+| :--- | :--- |
+| **Gá 6:10** | «Hagamos bien a todos, y mayormente a los de la familia de la fe» |
+| **1 Jn 4:20** | «El que no ama a su hermano a quien ha visto, ¿cómo puede amar a Dios a quien no ha visto?» |
+| **1 Co 12:26** | «Si un miembro padece, todos los miembros se duelen con él» |
+| **Jn 13:34-35** | «En esto conocerán que sois mis discípulos, si os amáis unos a otros» |
+| **Mt 25:40** | «En cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis» |
+
+**La prueba del árbol:** un sistema teológico que lleva a deshumanizar hermanos
+en la fe no puede venir de la sabiduría de lo alto, porque «la sabiduría que es
+de lo alto es primeramente pura, después pacífica, amable, benigna, llena de
+misericordia y de buenos frutos, sin incertidumbre ni hipocresía» (Stg 3:17).
+
+**Orígenes históricos.** Isaac sitúa el origen del sionismo cristiano en el
+puritanismo, la Declaración Balfour y, sobre todo, **John Nelson Darby**, cuyo
+dispensacionalismo llegó a ser muy influyente en Norteamérica a través de la
+Biblia de referencia de Scofield. Distingue la variante europea (protestante y
+católica), basada en la fidelidad de Dios a los judíos sin énfasis escatológico,
+de la evangélica estadounidense, centrada en los «últimos tiempos». Como
+ejemplo de la primera cita la declaración oficial de la Iglesia Protestante de
+los Países Bajos: «la creación del Estado de Israel es señal de la fidelidad de
+Dios al pueblo judío».
+
+**Documentos de los cristianos locales.** *Kairos Palestine* (2009) advierte
+que «cualquier uso de la Biblia para legitimar opciones y posturas políticas
+basadas en la injusticia [...] transforma la religión en ideología humana y
+despoja a la Palabra de Dios de su santidad», y afirma: «nuestro futuro y el
+suyo son uno».
+
+### 3.8 Refutaciones particulares
 
 Las refutaciones a autores concretos (Chuck Smith, dispensacionalismo
 progresivo, autores sionistas cristianos) están en el documento ampliado,
 §7.
 
-### 3.7 Criterio de falsación de este capítulo
+### 3.9 Criterio de falsación de este capítulo
 
 1. **Distinción Iglesia/Israel**: si se muestra que el dispensacionalismo es correcto en su distinción Iglesia/Israel étnico, este capítulo se cae.
 2. **Guerras del AT (§3.3)**: si se muestra una profecía del NT que ordene una guerra, o un criterio neotestamentario que autorice tomar la espada para el reino, el §3.3 se cae.
 
-### 3.8 Nota sobre el anexo
+### 3.10 Nota sobre el anexo
 
 Aquí se puede añadir un mecanismo para incorporar otras profecías o autores que se estudien en el futuro. El formato de fila sería: **Profecía/Autor | Texto | Fecha relativa | Cómo encaja | Tensión o duda**.
 
@@ -325,4 +469,22 @@ fases, milenio) están en el documento ampliado, §6.
 - https://fe.pasosdejesus.org/El-pueblo-de-Dios/
 - https://fe.pasosdejesus.org/Del-fin-del-primer-pacto-a-la-tribulacion/
 - https://fe.pasosdejesus.org/Armagedon/
+- Bechtel, Ken. «A Premillennialist Pacifism: The Canadian Swiss Mennonite Peace
+  Position». *Journal of Mennonite Studies* 25 (2007), 89-106. (Documenta la
+  erosión de la ética pacifista menonita por el dispensacionalismo).
+- Smith, Chuck. *The Calvary Chapel Distinctives*. (Cita en §3.6a).
+- Smith, Chuck. *End Times: A Report on Future Survival* (1978), p. 35. (Cita en §3.6b).
+- Corte Internacional de Justicia, *Application of the Convention on the
+  Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South
+  Africa v. Israel)*, órdenes de 26 de enero y 24 de mayo de 2024.
+- Corte Penal Internacional, *Situation in the State of Palestine*, órdenes de
+  arresto de 21 de noviembre de 2024.
+- Comisión Independiente de Investigación de la ONU, *Legal analysis of the
+  conduct of Israel in Gaza pursuant to the Convention on the Prevention and
+  Punishment of the Crime of Genocide*, A/HRC/60/CRP.3, 16 de septiembre de 2025.
+- Isaac, Munther. *From Land to Lands, from Eden to the Renewed Earth*
+  (2015). Conferencia «Christian Zionism as Imperial Theology» (Christ at the
+  Checkpoint / Balfour Project). Ver §3.7.
+- Smith, Robert O. *More Desired than Our Own Salvation*.
+- *Kairos Palestine* (2009). Documento de los cristianos palestinos.
 - https://en.wikipedia.org/wiki/John_Nelson_Darby

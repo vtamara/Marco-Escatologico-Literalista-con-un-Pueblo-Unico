@@ -172,12 +172,7 @@ pueblo, desde distintas corrientes, cuestiona.
 | El Estado moderno de Israel **coopta** el nombre y las promesas sin la fe | Inferencia teológica (por el patrón de Is 48:1-2 y del Israel del Norte; cf. §2.3) |
 | Los santos del AT resucitan en el juicio final | Inferencia teológica (Dn 12:2; Ap 20:11-15) |
 
-No nos referimos a **"Israel étnico"** que no existe en la Escritura ni
-en la ciencia (el genetista Robert Pollack dijo "No hay secuencias de ADN comunes
-a todos los judíos y ausentes de todos los no judíos. No hay nada en el genoma humano
-que haga o diagnostique a una persona como judía." https://forward.com/opinion/9406/the-fallacy-of-biological-judaism/ ),
-lo que refutamos es la **superioridad espiritual** que el sionismo atribuye al
-Estado moderno de Israel.
+
 
 ### 2.7 El deseo de Dios para toda la humanidad y el desierto como tipo
 
@@ -203,6 +198,9 @@ Charles C. Ryrie fijó en 1965 los tres elementos que, según él, definen a un 
 2. **Interpretación literal (gramático-histórica) consistente** de toda la Escritura: Las profecías sobre Israel se cumplen literalmente para el Israel étnico y nacional.
 3. **Propósito doxológico de la historia bíblica**: El fin último de Dios en la historia es la manifestación de su propia gloria.
 
+En "Dispensationalism (1995), p. 127" (citado en biblesumo.com) dice:
+"From Isaac, the descendants of Abraham are traced by physical descent through Jacob and his sons until the Seed, Jesus Christ, appears and the Gentiles are included in him.  It is therefore impossible to ignore this physical dimension and identify Abraham's seed merely as anyone of faith." 
+
 ### 3.2 Refutación desde el pueblo único
 
 | Afirmación dispensacionalista | Refutación desde el pueblo único |
@@ -212,6 +210,14 @@ Charles C. Ryrie fijó en 1965 los tres elementos que, según él, definen a un 
 | Las promesas del AT a Israel se cumplen en un Israel étnico futuro, no en la Iglesia. | "Todo Israel será salvo" (Rom 11:26) = la plenitud del Israel de Dios, el conjunto de israelitas que creen en Jesús, incorporados al pueblo único. |
 | Habrá un tercer templo físico en el milenio, con restauración de sacrificios. | El templo cesó (Mt 24:1-2; Jn 2:19-21). Cristo es el templo (Ap 21:22). |
 | El milenio es una era de dominio étnico judío con restauración del templo y la ley. | El milenio es el reinado de Cristo sobre todas las naciones (Ap 20:4-6; Is 65:20-25). |
+
+Hay 
+No nos referimos a **"Israel étnico"** que no existe en la Escritura ni
+en la ciencia (el genetista Robert Pollack dijo "No hay secuencias de ADN comunes
+a todos los judíos y ausentes de todos los no judíos. No hay nada en el genoma humano
+que haga o diagnostique a una persona como judía." https://forward.com/opinion/9406/the-fallacy-of-biological-judaism/ ),
+lo que refutamos es la **superioridad espiritual** que el sionismo atribuye al
+Estado moderno de Israel.
 
 ### 3.3 Las guerras del AT no autorizan guerras modernas
 

@@ -426,19 +426,44 @@ de profecías, tensiones abiertas y refutaciones a autores concretos) está en:
 
 ---
 
-## 5. Criterios de falsación del núcleo
+## 5. Conclusión
 
-1. **Pueblo único (distinción Iglesia / Israel étnico)**: Si se muestra que la
-   Iglesia no es el Israel de Dios (Gá 6:16) o que el olivo no es uno
-   (Rom 11:17-24), el núcleo se cae. Es el criterio principal.
-2. **Cese del templo**: Si se muestra que el templo físico sigue siendo el
-   centro del pacto colectivo con Israel después de Cristo, la tesis del cese
-   se cae.
-3. **El nombre "Israel"**: Si se muestra que el nombre es exclusivamente
-   genealógico y no relacional (Gn 32:28; Os 12:4), el §2 se cae.
+El marco sostiene una tesis simple y una consecuencia incómoda.
 
-Los criterios de falsación de la propuesta ampliada (resurrección en tres
-fases, milenio) están en el documento ampliado, §6.
+**La tesis.** Hay un solo pueblo de Dios, y su criterio es la fe en Cristo, no
+la genealogía ni la soberanía de un Estado (Gá 6:16; Rom 9:6-8; Rom 11:17-24).
+Ese pueblo empezó con Abraham y se define igual en el AT y en el NT: por la fe
+que se aferra a la revelación de Dios y prevalece en la lucha y el ruego
+(Gn 32:24-28; Os 12:3-4). Por eso entraron Rahab, Rut, Caleb, la multitud mixta
+y el extranjero residente, y por eso el Israel del Norte, que conservó el
+nombre sin la fe, no fue el Israel de Dios.
+
+**La consecuencia.** Si el pueblo es uno, se cae la premisa que sostiene el
+dispensacionalismo: no hay dos planes, no hay paréntesis de la Iglesia, no hay
+tercer templo, no hay milenio de dominio étnico. Lo que queda es el método
+literalista aplicado coherentemente: rapto pretribulacional, tribulación de
+siete años, semana de años de Daniel 9:27, milenio literal de 1000 años y
+segunda venida al final de la tribulación, todo dentro de una sola historia de
+salvación para un solo pueblo.
+
+**La aplicación.** La distinción entre el Israel bíblico y el Estado moderno de
+Israel no es un añadido polémico: se sigue de la tesis. De ahí la advertencia
+de §3.5: una teología que lleva a deshumanizar hermanos en la fe no puede venir
+de la sabiduría de lo alto (Stg 3:17; Gá 6:10). Y de ahí también el límite: no
+se niega el derecho de Israel a existir ni el de los judíos a vivir en la
+tierra; se niega la función divina que el sionismo cristiano le atribuye. La
+misma medida para todos (§2.3.1).
+
+**Lo que el documento no afirma.** No afirma que su lectura sea la única ni la
+definitiva. Cada capítulo declara su criterio de falsación: si se muestra que la
+Iglesia no es el Israel de Dios, que el templo físico sigue siendo el centro del
+pacto, o que el nombre «Israel» es puramente genealógico, el capítulo
+correspondiente se cae (cf. §2.8, §3.6, y el §6 del documento ampliado). Los
+frutos, en cambio, no sostienen la tesis: la confirman y advierten (§1.3.1).
+
+**Invitación.** El marco está abierto a corrección. Se somete al texto y a la
+guía del Espíritu Santo (Jn 16:13), y se ofrece para ser examinado con la misma
+medida con que examina: por la Escritura, no por la etiqueta de quien lo lee.
 
 ---
 

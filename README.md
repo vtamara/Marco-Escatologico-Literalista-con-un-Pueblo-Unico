@@ -276,27 +276,7 @@ Cristo, el criterio (a) queda además sujeto a 1 Jn 4:1-3.
 
 Sin la distinción Iglesia/Israel étnico, todo el sistema dispensacionalista se cae: no hay dos planes, no hay paréntesis, no hay tercer templo, no hay milenio étnico. Refutar esta distinción es atacar el fundamento del dispensacionalismo, no una de sus ramas.
 
-### 3.5 Objeciones frecuentes
-
-Argumentos que suelen escucharse en defensa del apoyo cristiano a operaciones
-militares del Estado moderno de Israel, con su respuesta desde el texto.
-
-| Objeción | Respuesta |
-| :--- | :--- |
-| «Las guerras del AT autorizan las de hoy» | Falta el elemento indispensable: mandato de Dios a un profeta reconocido y verificable (1 S 15:1-3; Dt 18:21-22). Saúl fue rechazado por no cumplir la orden (1 S 15:22-23). Dt 20:16-18 limita esas guerras a las naciones de Canaán, por el colmo de su maldad (Gn 15:16), no a cualquier guerra posterior. |
-| «Gaza hoy es como Hai y las ciudades de la conquista» | Jos 6:2 y Jos 8:1 comienzan con «Yahvé dijo a Josué». Sin esa palabra verificable, el paralelo no existe. Y el juicio sobre Canaán fue puntual, anunciado siglos antes (Gn 15:16) y ejecutado una vez. |
-| «Ya pasó el tiempo de la humildad; ahora hay que imponerse» | No hay en el NT ninguna dispensación en la que la humildad deje de aplicar: Mt 5:5; Mt 11:29; Fil 2:5-11 (la humildad de Cristo es el modelo, no una etapa); 1 P 5:6; Stg 3:17-18 («la sabiduría de lo alto es primeramente pura, después pacífica»). La imposición se asocia a los reinos de este mundo (Lc 22:25-26), no al reino de Cristo. |
-| «No se pueden dar cifras de muertos en Palestina» | La Escritura cuenta: Nm 31:7-8; Jos 10:26-27; 2 S 8:2; 1 Cr 21:5, 14. Pedir transparencia no es falta de amor: Prov 31:8-9 manda abrir la boca por los desvalidos. |
-| «Hubo ángeles peleando por Israel en las guerras modernas» | La señal nunca fue el criterio: Dt 13:1-3 advierte que una señal cumplida no valida una misión contraria a Dios, y 2 Co 11:14 avisa que Satanás se disfraza de ángel de luz. Además, los relatos son de segunda o tercera mano, sin testigos identificables ni archivos (ver documento ampliado, §5.8.8). |
-| «Apoyar a los veteranos y a las fuerzas armadas es honrar lo que Dios honra» | Honrar a las personas (Rom 13:7) es distinto de bendecir un sistema. Nuestra ciudadanía está en los cielos (Fil 3:20) y las armas de nuestra milicia no son carnales (2 Co 10:4). |
-
-**Cómo dialogar.** No se pide a nadie abandonar su amor por Israel, su
-literalismo ni su gratitud a quienes sirvieron. Se pide examinar dos cosas:
-si el fruto de la postura es pacífico (Stg 3:17-18) y si el mandato de
-humildad sigue vigente (Fil 2:5-11; 1 P 5:6). Ninguna de las dos se resuelve
-con un sistema escatológico.
-
-### 3.6 Consecuencia práctica: el sionismo cristiano
+### 3.5 Consecuencia práctica: el sionismo cristiano
 
 El dispensacionalismo no es solo una hipótesis escatológica: tiene
 consecuencias éticas verificables.

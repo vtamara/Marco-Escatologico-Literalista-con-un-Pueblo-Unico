@@ -192,14 +192,14 @@ Si se muestra que la pertenencia a Israel se define por pura genealogía en el A
 
 ### 3.1 Los tres elementos de Ryrie
 
-Charles C. Ryrie fijó en 1965 los tres elementos que, según él, definen a un dispensacionalista:
+En su libro Dispensationalism, Charles C. Ryrie fijó los tres elementos que, según él, definen a un dispensacionalista:
 
 1. **Distinción entre Israel y la Iglesia**: No son el mismo pueblo ni el mismo plan. La Iglesia no reemplaza a Israel en la economía de Dios.
 2. **Interpretación literal (gramático-histórica) consistente** de toda la Escritura: Las profecías sobre Israel se cumplen literalmente para el Israel étnico y nacional.
 3. **Propósito doxológico de la historia bíblica**: El fin último de Dios en la historia es la manifestación de su propia gloria.
 
-En "Dispensationalism (1995), p. 127" (citado en biblesumo.com) dice:
-"From Isaac, the descendants of Abraham are traced by physical descent through Jacob and his sons until the Seed, Jesus Christ, appears and the Gentiles are included in him.  It is therefore impossible to ignore this physical dimension and identify Abraham's seed merely as anyone of faith." 
+Propone que las promesas territoriales deben ser para los descendientes biológicos de Jacob. Sin embargo hay consenso en la afirmación de Eran Elhaik (genetista molecular israelí, Universidad de Haifa) de que "No existe un genoma judío y, desde luego, no existe un gen judío," y según una fuente divulgativa ("The world is more Jewish than we realized" - 2025 ) más de l.8% de la población mundial tiene trazas de ancenstros judios en su DNA,por lo que es una definición inoperante, pues si se intante proponer un porcentaje de ADN judio, con 100% no  habría individuos y con 0.1% habría muchisimos individuos de todo el mundo que no se consideran judios.   En la práctica los argumentos dispensacionalistas sólo podrían aplicarse al estado moderno de Israel, que no tiene un criterio de "descendencia biológica de Jacob" verificable (incluso hay cerca de 1.7 millones de palestions con ciudadania israeli).  Es decir el dispensacionalismo termina operando como un argumento político-legal y no genético o de fe.
+  
 
 ### 3.2 Refutación desde el pueblo único
 
@@ -529,3 +529,4 @@ fases, milenio) están en el documento ampliado, §6.
 - Smith, Robert O. *More Desired than Our Own Salvation*.
 - *Kairos Palestine* (2009). Documento de los cristianos palestinos.
 - https://en.wikipedia.org/wiki/John_Nelson_Darby
+- Ryrie, Charles C. Dispensationalism. Rev. and expanded ed. Chicago: Moody Press, 1995.

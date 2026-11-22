@@ -53,6 +53,129 @@ Cristo volverá antes del milenio literal de 1000 años. La Iglesia será arreba
 | **22** | Suelta y rebelión final | **R+1007** | Ap 20:7-9 | Relativa |
 | **23** | Consignación eterna | **R+1007** | Ap 20:10, 14-15 | Relativa |
 
+### 4.2.1 Cómo se lee la columna «Fecha»
+
+La tabla mezcla dos escalas distintas, y conviene no confundirlas.
+
+**Escala absoluta (etapas 1-14).** Son fechas de calendario, con cuatro
+niveles de certeza:
+
+| Nivel | Qué significa | Etapas |
+| :--- | :--- | :--- |
+| **Precisa** | Fecha verificable por fuente histórica externa | 10 (cronología de Reyes, anclada en Qarqar, 853 a.C.); 14 (destrucción de Jerusalén, 70 d.C.) |
+| **Aproximada** | Estimación estándar en la literatura, sin año exacto | 5, 6, 9, 11, 13 |
+| **Debatida** | Existen dos o más opciones legítimas, y se presentan ambas | 7 (Éxodo 1446 o 1277 a.C.) |
+| **Derivada** | Depende de una etapa debatida | 8 (sigue a la opción elegida en 7) |
+| **En blanco** | Sin consenso ni base para calcular | 1, 2, 3, 4 |
+
+**Escala relativa (etapas 15-23).** No son fechas, son posiciones respecto a
+un punto que solo Dios conoce:
+
+- **R** = rapto pretribulacional (1 Ts 4:13-18; 1 Co 15:51-52). Su fecha es
+  indeterminada por definición (Mt 24:36; Hch 1:7).
+- **R+3.5** = punto medio de la semana de siete años de Dn 9:27 (Mt 24:15;
+  Ap 13:5: cuarenta y dos meses).
+- **R+7** = fin de la tribulación y segunda venida (Ap 19:11-21; Mt 24:29-31;
+  Zac 14:1-9).
+- **R+7 a R+1007** = milenio de 1000 años (Ap 20:4-6).
+- **R+1007** = suelta de Satanás, rebelión final y juicio (Ap 20:7-15).
+
+**Lo que la tabla no es.** No es un calendario ni una profecía fechada: es una
+**secuencia de dependencias**. Lo que la tabla afirma es el *orden* de los
+eventos y su anclaje textual, no los intervalos de tiempo entre ellos más allá
+de los que el texto mismo declara (siete años, cuarenta y dos meses, mil años).
+
+### 4.2.2 El hilo de la línea de tiempo en cinco tramos
+
+La tabla de §4.2 se lee mejor como un relato con cinco tramos.
+
+**Tramo 1 — Prólogo eterno (etapas 1-4).** Rebelión original, caída de la
+humanidad y los pactos con Adán (Gn 3:15, la primera promesa del
+Restaurador) y con Noé (Gn 9:8-17, la promesa de que la historia no se
+repetirá como juicio total antes del fin). Estas etapas fundan el
+**problema** que el resto de la línea resuelve: hay un enemigo vencido, una
+humanidad caída y una promesa de redención. Sus fechas quedan en blanco y no
+se usan como argumento.
+
+**Tramo 2 — Formación del pueblo por fe (etapas 5-9).** El pacto con Abraham
+(Gn 12:1-3; 15; 17) abre la promesa a "todas las familias de la tierra";
+Jacob recibe el nombre Israel (Gn 32:24-28; Os 12:3-4); el Éxodo incorpora a
+la multitud mixta y al extranjero residente (Éx 12:38, 48-49); la conquista
+incorpora a Rahab y a Caleb; Rut la moabita entra pese a la prohibición de
+Dt 23:3. Este tramo es el que sostiene §2 del README: **la pertenencia se
+define por la fe, no por genealogía**, y el texto lo muestra antes de Cristo,
+no solo después.
+
+**Tramo 3 — Pacto davídico y Mesías (etapas 10-13).** El pacto con David
+(2 S 7:12-16; Sal 89:3-4) fija la expectativa del Hijo eterno; el nacimiento
+(Gá 4:4-5), la declaración de Jesús (Lc 10:18) y la cruz (Col 2:15; Jn
+12:31-33; Heb 2:14) cumplen la promesa y derrotan al enemigo del tramo 1.
+La cruz es el punto donde el "problema" del prólogo queda resuelto en
+principio.
+
+**Tramo 4 — La bisagra del 70 d.C. (etapa 14).** La destrucción del templo
+(Mt 24:1-2; Mc 13:1-2; Lc 21:5-6; Heb 8:13) cierra el pacto mosaico como
+centro de culto y abre la era de la iglesia. Sin este tramo, la tabla no
+tendría por qué cambiar de escala: es el punto donde la profecía pasa de
+"historia de Israel" a "historia del pueblo único".
+
+**Tramo 5 — La consumación (etapas 15-23).** Rapto (15, con la expulsión
+final del cielo y el sellamiento de los 144.000 en 16-17), tribulación de
+siete años con su punto medio (18), segunda venida (19), encarcelamiento de
+Satanás (20), milenio de mil años (21), rebelión final (22) y consignación
+eterna (23). El detalle de cada evento está en §4.3-§4.5 y en el encaje de
+profecías de §5.
+
+**Cómo se encadenan las etapas 19-22.** No son un solo salto. La segunda
+venida (19) y el encarcelamiento de Satanás (20) comparten la marca R+7
+porque el texto los presenta juntos (Ap 19:11-21 y 20:1-3). A partir de ahí
+el milenio **suma** sus mil años: si empieza en R+7, termina en R+7+1000, es
+decir R+1007. Por eso la etapa 22 lleva R+1007 y no R+7: la rebelión final
+ocurre al **final** del milenio, no al principio (Ap 20:7-9).
+
+### 4.2.3 Etapas 1-14: profecía y anclaje
+
+§5 desarrolla el encaje de las profecías de los tramos 4 y 5. Este apartado
+completa el mismo formato para los tramos 1-3, que antes quedaban sin
+desarrollo.
+
+| Profecía / evento | Texto | Etapa | Cómo encaja | Tensión o duda |
+| :--- | :--- | :--- | :--- | :--- |
+| **Primera promesa del Restaurador** | Gn 3:15 | 3 | La simiente de la mujer herirá la cabeza de la serpiente; se cumple en Cristo (Rom 16:20; Gá 4:4) | Roma 16:20 la aplica también a la victoria presente del creyente, no solo a la cruz |
+| **Pacto con Noé** | Gn 6:18; Gn 9:8-17 | 4 | Garantiza la continuidad de la creación hasta el fin: no habrá otro diluvio universal (Is 54:9) | El texto no dice nada sobre el fin de la era; su valor en la tabla es de continuidad, no escatológico directo |
+| **Pacto con Abraham** | Gn 12:1-3; 15:1-21; 17:1-14 | 5 | La bendición a "todas las familias de la tierra" se cumple en Cristo y en la misión a las naciones (Gá 3:8, 16; Hch 3:25) | El dispensacionalismo lee la promesa de tierra como título perpetuo para un pueblo étnico; aquí se lee cumplida en Cristo (2 Co 1:20; cf. README §2.1) |
+| **Jacob recibe el nombre Israel** | Gn 32:24-28; 35:10; Os 12:3-4 | 6 | El nombre es relacional, por lucha y ruego, no genealógico (cf. README §2.1) | Ninguna: es texto explícito |
+| **Éxodo e incorporación del extranjero** | Éx 12:38, 48-49; Nm 15:15-16; Lv 19:33-34 | 7 | Una misma ley para nativo y extranjero; el pueblo se forma por fe y obediencia | La fecha del Éxodo está debatida (1446 o 1277 a.C.); el argumento no depende de ella |
+| **Conquista, Rahab y Caleb** | Jos 2; 6:25; 14:6-14; Nm 32:12; Heb 11:31 | 8 | Extranjeros incorporados por fe, y en la genealogía del Mesías (Mt 1:5) | El mandato de conquista es puntual y no se traslada a guerras modernas (cf. README §3.4) |
+| **Rut la moabita** | Rt 1:16-17; 4:13-17; Mt 1:5 | 9 | La ley la excluía (Dt 23:3); la gracia la recibe por fe; bisabuela de David | Que la ley la excluyera y el texto la reciba es tensión textual que el marco no resuelve, solo la constata |
+| **Pacto davídico** | 2 S 7:12-16; Sal 89:3-4 | 10 | El Hijo eterno en el trono; se cumple en Cristo (Lc 1:32-33; Hch 2:30) | Ninguna en cuanto al cumplimiento; sí en cuanto a si admite un cumplimiento político posterior |
+| **Nacimiento del Mesías** | Ap 12:5; Lc 2:1-20; Gá 4:4-5 | 11 | La mujer de Ap 12 da a luz al hijo varón (cf. §5.3) | Ap 12 no da fecha; la fecha c. 4 a.C. viene de la historia, no del texto |
+| **Declaración de Jesús** | Lc 10:18 | 12 | "Veía a Satanás caer del cielo como un rayo": derrota inicial en el ministerio | El texto es una visión de Jesús; su relación con Ap 12:9 es inferencia (cf. §5.8, tensión 6) |
+| **Derrota en la cruz** | Col 2:15; Jn 12:31-33; Heb 2:14 | 13 | Juicio del mundo, expulsión del príncipe de este mundo, despojo de potestades | Tensión real: si Satanás fue "expulsado" en la cruz, ¿por qué Ap 12:7-9 lo presenta arrojado después? Se trata en §5.8, tensión 6 |
+| **Fin del templo y del pacto mosaico** | Mt 24:1-2; Mc 13:1-2; Lc 21:5-6; Heb 8:13 | 14 | Cierra el culto levítico como centro del pacto; abre la era de la iglesia | La tensión dispensacionalista (¿templo futuro?) se responde en README §2.4 y §3.2 |
+
+### 4.2.4 Tensión abierta de la línea de tiempo
+
+Toda línea de tiempo que abarca de la creación al estado eterno tiene puntos
+donde el texto guarda silencio. Se declaran:
+
+1. **Las etapas 1-4 no tienen fecha y no pueden usarse como argumento.** Que
+   Gn 1-11 sea historia real no implica que su cronología sea calculable. La
+   tabla las incluye por completitud narrativa, no como evidencia.
+2. **El milenio de 1000 años depende de leer Ap 20:2-7 literalmente.** Ese es
+   justamente el compromiso metodológico del marco (método literalista), no
+   una conclusión exegética independiente. Quien lee el número como símbolo no
+   rompe el pueblo único; solo cambia la escala temporal del tramo 5.
+3. **La relación entre Lc 10:18, Col 2:15 y Ap 12:7-9 no está datada por el
+   texto.** El marco propone una progresión de derrotas (cf. §5.8, tensión 6), pero
+   reconoce que es armonización, no exégesis directa.
+4. **Las etapas 15-17 se agrupan en R sin que el texto indique su orden
+   interno.** 1 Ts 4:13-18 no dice nada sobre los 144.000 ni sobre Ap 12;
+   colocarlos en el mismo punto es inferencia.
+5. **El fin de la tribulación y la segunda venida se tratan como un solo
+   evento (etapa 19).** Si se mostrara que el texto los separa, la tabla
+   necesitaría una etapa más; hoy no la tiene.
+
 ### 4.3 La resurrección en tres fases
 
 | Fase | Participantes | Texto clave | Propósito |
@@ -181,7 +304,7 @@ legomenon* del Nuevo Testamento.
 **Distinción con Ap 12:7-9:** el texto presenta a los del Tártaro como
 recluidos ("reservados para juicio") y a los de Ap 12 como arrojados a la
 tierra. Son destinos distintos, y el texto no da la cronología que los
-concilie (cf. §5.8.6).
+concilie (cf. §5.8, tensión 6).
 
 **Referencia a §4.2, etapa 23.**
 
@@ -208,7 +331,7 @@ concilie (cf. §5.8.6).
 
 1. Leer primero el §1 (introducción) y el §2 (pueblo único).
 2. Revisar el §5.8 (tensiones abiertas) antes de proponer nuevas interpretaciones.
-3. Someter toda nueva interpretación a los criterios de falsación de cada capítulo (§2.8, §3.5, §4.6).
+3. Someter toda nueva interpretación a los criterios de falsación de cada capítulo (§2.8, §3.6, §4.6).
 4. Distinguir texto de inferencia (§2.6).
 5. Orar al Espíritu Santo (Jn 16:13; Stg 1:5) y reconocer que nuestra comprensión es parcial (1 Co 13:12).
 
@@ -230,7 +353,7 @@ Aquí se puede añadir un mecanismo para incorporar otras profecías que se estu
 
 ## 7. Refutaciones particulares
 
-#### 7.1 Chuck Smith
+### 7.1 Chuck Smith
 
 | Punto | Chuck Smith | Nuestro marco |
 | :--- | :--- | :--- |
@@ -243,7 +366,7 @@ Aquí se puede añadir un mecanismo para incorporar otras profecías que se estu
 | **El "último trompeta"** | Trompeta de Dios, distinta del séptimo ángel | **Distinción correcta**, pero no exagerada |
 | **Posibilidad de un "Israel étnico" desde el AT** | Sí, pero separado de la Iglesia | **No**: el Israel del AT es el mismo pueblo de Dios que en Cristo es la Iglesia (Rom 9:6-8; Gá 6:16) |
 
-#### 7.2 Espacio para añadir más adelante
+### 7.2 Espacio para añadir más adelante
 
 En futuras sesiones se pueden añadir refutaciones a:
 - **Dispensacionalismo progresivo** (Bock, Blaising, Saucy)

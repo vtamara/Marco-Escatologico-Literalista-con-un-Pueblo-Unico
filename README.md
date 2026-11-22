@@ -30,10 +30,33 @@ Reconocemos el esfuerzo del dispensacionalismo por hacer una
 (milenio literal de 1000 años, tribulación de 7 años, Daniel 9:27 como semana
 de años, segunda venida al final de la tribulación) y lo imitamos en este artículo. 
 Pero rechazamos **la hipótesis interpretativa** de que Israel y la Iglesia
-sean dos pueblos con dos planes distintos por sus **frutos de muerte** en lo que
-vemos hoy en la destrucción en Gaza, Irán, Medio Oriente en general, e incluso en el estado
-moderno de Israel con el apoyo del sionismo cristiano.  La teología no es neutral: 
-produce frutos, y esos frutos deben ser evaluados a la luz de la Escritura (Mt 7:16-20).
+sean dos pueblos con dos planes distintos.
+
+#### 1.3.1 Los dos argumentos, y su peso relativo
+
+La refutación se apoya en **dos argumentos distintos, que no deben confundirse
+porque tienen peso y alcance distintos**:
+
+| Argumento | Naturaleza | Qué muestra | Qué pasa si falla |
+| :--- | :--- | :--- | :--- |
+| **Bíblico** (§3.2): la Iglesia es el Israel de Dios (Gá 6:16), el olivo es uno (Rom 11:17-24), el templo cesó (Mt 24:1-2; Jn 2:19-21) | **Nuclear.** Exégesis del texto | Que la distinción Israel/Iglesia es falsa como *categoría teológica* | Si falla, el marco completo se cae (cf. §5) |
+| **De frutos** (§3.5): lo que ha producido el sistema en Gaza, Irán, Medio Oriente y el Estado moderno de Israel con apoyo del sionismo cristiano | **Auxiliar.** Evaluación de consecuencias | Que la hipótesis, además de infundada, **produce frutos de muerte** (Mt 7:16-20) | Si el lector discute la lectura de los hechos, el argumento bíblico **permanece intacto** |
+
+**Por qué se separan.** El argumento de frutos es históricamente
+circunstancial: los hechos concretos pueden ser discutidos, fechados de otro
+modo o atribuidos a causas políticas ajenas a la teología. El argumento
+bíblico no depende de ningún acontecimiento contemporáneo: se sostiene o cae
+con el texto. Por eso el marco **no apoya su tesis en los frutos**, sino que
+los usa como confirmación y como advertencia ética: una teología que lleva a
+deshumanizar hermanos en la fe no puede venir de la sabiduría de lo alto
+(Stg 3:17; cf. §3.5.3).
+
+**Cómo leerlo.** La Escritura dice que la teología no es neutral y que se
+conoce por sus frutos (Mt 7:16-20; Stg 3:17). Pero el orden del argumento es
+el inverso al que a veces se nos atribuye: **primero el texto, después los
+frutos**. Quien refute nuestra lectura de los hechos no habrá refutado la
+tesis; quien refute el argumento bíblico sí la habrá refutado, y entonces los
+frutos dejan de importar para el juicio del sistema.
 
 | **Se conserva (método literalista)** | **Se rechaza (hipótesis interpretativa)** |
 | :--- | :--- |
@@ -152,10 +175,10 @@ pueblo, desde distintas corrientes, cuestiona.
 
 | Título | Origen en el AT | Aplicación en 1 P 2:9 |
 | :--- | :--- | :--- |
-| "linaje escogido" (\`γένος ἐκλεκτόν\`) | Is 43:20 (\`γένος μου τὸ ἐκλεκτόν\` LXX) | La iglesia |
-| "real sacerdocio" (\`βασίλειον ἱεράτευμα\`) | Éx 19:6; 23:22 LXX | La iglesia |
-| "nación santa" (\`ἔθνος ἅγιον\`) | Éx 19:6; Dt 7:6 | La iglesia |
-| "pueblo adquirido" (\`λαὸς εἰς περιποίησιν\`) | Is 43:21; Éx 19:5 | La iglesia |
+| "linaje escogido" (`γένος ἐκλεκτόν`) | Is 43:20 (`γένος μου τὸ ἐκλεκτόν` LXX) | La iglesia |
+| "real sacerdocio" (`βασίλειον ἱεράτευμα`) | Éx 19:6; 23:22 LXX | La iglesia |
+| "nación santa" (`ἔθνος ἅγιον`) | Éx 19:6; Dt 7:6 | La iglesia |
+| "pueblo adquirido" (`λαὸς εἰς περιποίησιν`) | Is 43:21; Éx 19:5 | La iglesia |
 
 ### 2.6 Tabla de estatus: texto vs. inferencia
 
@@ -188,9 +211,9 @@ Si se muestra que la pertenencia a Israel se define por pura genealogía en el A
 
 ---
 
-# 3. Refutación al dispensacionalismo
+## 3. Refutación al dispensacionalismo
 
-## 3.1 La esencia del sistema según Ryrie
+### 3.1 La esencia del sistema según Ryrie
 
 Charles C. Ryrie, en *Dispensationalism* (Moody Press, 1995), fijó los tres elementos que, según él, definen a un dispensacionalista:
 
@@ -200,7 +223,7 @@ Charles C. Ryrie, en *Dispensationalism* (Moody Press, 1995), fijó los tres ele
 
 De estos tres, el primero es el **criterio definitorio** (*sine qua non*): sin la distinción Israel/Iglesia, el sistema se derrumba.
 
-## 3.2 Refutación bíblica: un solo pueblo
+### 3.2 Refutación bíblica: un solo pueblo
 
 | Afirmación dispensacionalista | Refutación desde el pueblo único |
 | :--- | :--- |
@@ -214,11 +237,11 @@ De estos tres, el primero es el **criterio definitorio** (*sine qua non*): sin l
 
 **Lo que se refuta no es una etnia inexistente**, sino la **superioridad** que el sionismo atribuye al Estado moderno de Israel.
 
-## 3.3 Refutación empírica: la imposibilidad del "Israel étnico"
+### 3.3 Refutación empírica: la imposibilidad del "Israel étnico"
 
 El dispensacionalismo necesita que el "Israel étnico" sea identificable como descendencia biológica de Jacob. Tres argumentos muestran que esa categoría es inoperante.
 
-### 3.3.1 El argumento genético
+#### 3.3.1 El argumento genético
 
 El genetista israelí Eran Elhaik (Universidad de Haifa) afirma: *"No existe un genoma judío y, desde luego, no existe un gen judío"*.
 
@@ -226,7 +249,7 @@ Una estimación divulgada en 2025 sugiere que hasta 152 millones de personas (1,
 
 **La categoría es inoperante:** no hay un umbral genético definible que coincida con la pertenencia al pueblo de Dios.
 
-### 3.3.2 El argumento matrilineal
+#### 3.3.2 El argumento matrilineal
 
 Si el dispensacionalismo usara el criterio halájico tradicional de "madre judía" para definir al "Israel étnico", **excluiría a David y a Jesús**:
 
@@ -237,7 +260,7 @@ Si el dispensacionalismo usara el criterio halájico tradicional de "madre judí
 
 **No hay criterio étnico único que incluya a David, a Jesús, a Rahab y a Rut.** La Escritura define al pueblo de Dios por **fe**, no por genealogía (Jos 2; Rt 1; Nm 32:12; Éx 12:38).
 
-### 3.3.3 El argumento político-legal
+#### 3.3.3 El argumento político-legal
 
 En la práctica, el Estado moderno de Israel no ofrece un criterio de "descendencia biológica de Jacob" verificable:
 
@@ -247,7 +270,7 @@ En la práctica, el Estado moderno de Israel no ofrece un criterio de "descenden
 
 **El dispensacionalismo termina operando con un criterio político-legal, no genético ni de fe.**
 
-## 3.4 Refutación teológica: las guerras del AT no autorizan guerras modernas
+### 3.4 Refutación teológica: las guerras del AT no autorizan guerras modernas
 
 Es frecuente justificar operaciones militares del Estado moderno de Israel con las guerras de la conquista o con las campañas de Saúl y David. El texto no permite ese traslado, por cinco razones.
 
@@ -274,11 +297,11 @@ Es frecuente justificar operaciones militares del Estado moderno de Israel con l
 
 **Inferencia teológica:** quien invoque la conquista para justificar operaciones militares modernas debe mostrar (a) profeta reconocido con orden explícita, (b) señal acompañante verificable, (c) alcance y motivo declarados por Dios. Sin esos tres, el traslado no tiene base bíblica. Y después de Cristo, el criterio (a) queda además sujeto a 1 Jn 4:1-3.
 
-## 3.5 Consecuencias prácticas del sistema
+### 3.5 Consecuencias prácticas del sistema
 
 El dispensacionalismo no es solo una hipótesis escatológica: tiene consecuencias éticas verificables.
 
-### 3.5.1 El sionismo cristiano: Calvary Chapel y Chuck Smith
+#### 3.5.1 El sionismo cristiano: Calvary Chapel y Chuck Smith
 
 **a) La separación de pueblos como premisa confesada.** En *The Calvary Chapel Distinctives*, Chuck Smith formula el núcleo del sistema con claridad:
 
@@ -294,7 +317,7 @@ Y añade: «The church is the elect, but Israel is also the elect», para conclu
 
 El Estado de 1948 no era un dato periférico: era **la premisa del cálculo**. Si Israel no cumple la higuera de Mt 24:32-34, el esquema se derrumba. Esa es la razón estructural de un sionismo tan marcado: la escatología depende de que el Estado moderno sea sujeto permanente del plan divino.
 
-### 3.5.2 La erosión de la ética pacifista: el caso menonita canadiense
+#### 3.5.2 La erosión de la ética pacifista: el caso menonita canadiense
 
 Ken Bechtel, «A Premillennialist Pacifism: The Canadian Swiss Mennonite Peace Position», *Journal of Mennonite Studies* 25 (2007), 89-106, documenta que menonitas suizos de Ontario adoptaron el premilenialismo dispensacionalista durante la Segunda Guerra Mundial y que esa teología, en algunos casos, introdujo una «racionalización y justificación de la violencia por parte del Estado», erosionando su ética pacifista tradicional.
 
@@ -302,7 +325,7 @@ Ken Bechtel, «A Premillennialist Pacifism: The Canadian Swiss Mennonite Peace P
 
 **Esto nos toca de cerca.** No hablamos de un error ajeno. El caso documentado por Bechtel no ocurrió entre liberales ni entre incrédulos: ocurrió entre menonitas que querían ser fieles a la Escritura y conservar su herencia pacifista. El sistema no les pidió renunciar a la fe; solo les pidió que asignaran el Sermón del Monte a otra era. Lo demás vino solo.
 
-### 3.5.3 Los cristianos de Tierra Santa: el eslabón que falta
+#### 3.5.3 Los cristianos de Tierra Santa: el eslabón que falta
 
 Todo lo anterior podría discutirse como teología abstracta. Deja de serlo cuando se considera quiénes son las personas afectadas: **entre los habitantes de Gaza, Cisjordania, Líbano e Irán hay cristianos**, hermanos en la fe. No son una minoría irrelevante:
 
@@ -343,7 +366,7 @@ Isaac describe además las «cuatro suposiciones» del sionismo cristiano, que d
 **Documentos de los cristianos locales.** *Kairos Palestine* (2009) advierte que «cualquier uso de la Biblia para legitimar opciones y posturas políticas basadas en la injusticia [...] transforma la religión en ideología humana y despoja a la Palabra de Dios de su santidad», y afirma: «nuestro futuro y el suyo son uno».
 
 
-## 3.6 Criterio de falsación de este capítulo
+### 3.6 Criterio de falsación de este capítulo
 
 1. **Distinción Iglesia/Israel**: si se muestra que el dispensacionalismo es correcto en su distinción Iglesia/Israel étnico, este capítulo se cae.
 2. **Guerras del AT (§3.4)**: si se muestra una profecía del NT que ordene una guerra, o un criterio neotestamentario que autorice tomar la espada para el reino, §3.4 se cae.
@@ -356,8 +379,48 @@ con rapto pretribulacional, milenio literal de 1000 años y Daniel 9:27 como
 semana de años. Lo que cambia es **una hipótesis de ese método**: no hay dos
 pueblos con dos planes, sino uno solo, definido por la fe en Cristo.
 
-El desarrollo completo (etapas, resurrección en tres fases, milenio, encaje de
-profecías, tensiones abiertas y refutaciones a autores concretos) está en:
+### 4.1 Línea de tiempo mínima
+
+La tabla siguiente reemplaza el esquema dispensacionalista típico (Iglesia como
+paréntesis, restauración del Israel étnico y tercer templo) por la secuencia
+mínima que el marco necesita. Es un extracto de la tabla completa de 23 etapas
+del documento ampliado (§4.2), reducida a lo indispensable.
+
+| Momento | Evento | Fecha | Anclaje | Qué cambia respecto al dispensacionalismo |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pacto con Abraham** | La promesa se abre a todas las familias de la tierra | c. 2000-1900 a.C. | Gn 12:1-3; 15:1-21; 17:1-14 | La promesa no es título perpetuo de un pueblo étnico: se cumple en Cristo (Gá 3:8, 16; 2 Co 1:20) |
+| **Jacob → Israel** | El nombre se recibe por lucha y ruego | c. 1800 a.C. | Gn 32:24-28; 35:10; Os 12:3-4 | «Israel» es relacional, no genealógico (§2.1) |
+| **Éxodo y conquista** | Entran el extranjero, la multitud mixta, Rahab y Caleb | c. 1446 o 1277 a.C. | Éx 12:38, 48-49; Jos 2; 6:25; 14:6-14 | La pertenencia se define por la fe ya en el AT (§2.2) |
+| **Rut la moabita** | La excluida por la ley entra por gracia | c. 1100 a.C. | Rt 1:16-17; 4:13-17; Mt 1:5 | La genealogía del Mesías incluye a una moabita |
+| **Pacto davídico** | El Hijo eterno en el trono | 1010-970 a.C. | 2 S 7:12-16; Sal 89:3-4 | Se cumple en Cristo (Lc 1:32-33; Hch 2:30), no en un Estado |
+| **Cruz** | Derrota del enemigo y juicio del mundo | c. 30 d.C. | Col 2:15; Jn 12:31-33; Heb 2:14 | No hay «paréntesis»: la cruz es el centro del plan, no una pausa |
+| **Fin del templo y del pacto mosaico** | Cesa el culto levítico como centro del pacto | **70 d.C.** | Mt 24:1-2; Lc 21:5-6; Heb 8:13 | **No hay tercer templo**: Cristo es el templo (Jn 2:19-21; Ap 21:22) |
+| **Rapto** | Cristo viene por su Iglesia | **R** | 1 Ts 4:13-18; 1 Co 15:51-52; Ap 3:10 | Se conserva el rapto pretribulacional |
+| **Gran tribulación** | Siete años; punto medio con la abominación | **R+3.5 a R+7** | Dn 9:27; Mt 24:15-22; Ap 13:5 | Se conserva la semana de años de Dn 9:27 |
+| **Segunda venida** | Cristo viene en gloria y reina | **R+7** | Ap 19:11-21; Mt 24:29-31; Zac 14:1-9 | Un solo pueblo recibe al Rey |
+| **Milenio** | Reinado de Cristo sobre las naciones | **R+7 a R+1007** | Ap 20:4-6; Is 65:20-25 | No es era de dominio étnico ni restauración del templo y la ley |
+| **Rebelión final y juicio** | Suelta de Satanás; Gran Trono Blanco | **R+1007** | Ap 20:7-15; Dn 12:2 | Los santos del AT resucitan aquí (inferencia), no al inicio del milenio |
+| **Estado eterno** | Nuevos cielos y nueva tierra | — | Ap 21-22; 2 P 3:13 | La consumación es la presencia de Dios con su pueblo único |
+
+**Cómo se lee.** Las fechas absolutas (hasta el 70 d.C.) son de calendario; a
+partir del rapto, **R** es el punto que solo Dios conoce (Mt 24:36) y las demás
+marcas son relativas a él (R+3.5 = mitad de la semana; R+7 = fin de la
+tribulación; R+7+1000 = fin del milenio). La tabla afirma el **orden** de los
+eventos y su anclaje textual, no un calendario.
+
+### 4.2 Qué se conserva y qué se reemplaza
+
+| Elemento | Dispensacionalismo típico | Este marco |
+| :--- | :--- | :--- |
+| Iglesia e Israel | Dos pueblos, dos planes; la Iglesia es un paréntesis | **Un solo pueblo** por la fe en Cristo (Gá 6:16; Rom 11:17-24) |
+| El 70 d.C. | Aplazamiento del reino; el reloj de Israel se detiene | **Cierre del pacto mosaico** y del templo como centro del pacto |
+| Templo | Tercer templo físico en la tribulación y el milenio | **No hay tercer templo**: Cristo es el templo (Jn 2:19-21; Ap 21:22) |
+| Milenio | Era de dominio étnico judío con restauración de la ley y los sacrificios | **Reinado de Cristo sobre todas las naciones** (Ap 20:4-6; Is 65:20-25) |
+| Santos del AT | Resucitan al inicio del milenio | **Resucitan en el juicio final** (inferencia; Dn 12:2; Ap 20:11-15) |
+| Rapto, tribulación, Dn 9:27 | Pretribulacional, 7 años, semana de años | **Se conservan** (método literalista) |
+
+El desarrollo completo (23 etapas, resurrección en tres fases, milenio, encaje
+de profecías, tensiones abiertas y refutaciones a autores concretos) está en:
 
 **[`Marco-escatologico-mas-completo-en-desarrollo.md`](Marco-escatologico-mas-completo-en-desarrollo.md)**
 
@@ -391,8 +454,8 @@ fases, milenio) están en el documento ampliado, §6.
 - Bechtel, Ken. «A Premillennialist Pacifism: The Canadian Swiss Mennonite Peace
   Position». *Journal of Mennonite Studies* 25 (2007), 89-106. (Documenta la
   erosión de la ética pacifista menonita por el dispensacionalismo).
-- Smith, Chuck. *The Calvary Chapel Distinctives*. (Cita en §3.6a).
-- Smith, Chuck. *End Times: A Report on Future Survival* (1978), p. 35. (Cita en §3.6b).
+- Smith, Chuck. *The Calvary Chapel Distinctives*. (Cita en §3.5.1a).
+- Smith, Chuck. *End Times: A Report on Future Survival* (1978), p. 35. (Cita en §3.5.1b).
 - Corte Internacional de Justicia, *Application of the Convention on the
   Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South
   Africa v. Israel)*, órdenes de 26 de enero y 24 de mayo de 2024.
@@ -403,7 +466,7 @@ fases, milenio) están en el documento ampliado, §6.
   Punishment of the Crime of Genocide*, A/HRC/60/CRP.3, 16 de septiembre de 2025.
 - Isaac, Munther. *From Land to Lands, from Eden to the Renewed Earth*
   (2015). Conferencia «Christian Zionism as Imperial Theology» (Christ at the
-  Checkpoint / Balfour Project). Ver §3.7.
+  Checkpoint / Balfour Project). Ver §3.5.3.
 - Smith, Robert O. *More Desired than Our Own Salvation*.
 - *Kairos Palestine* (2009). Documento de los cristianos palestinos.
 - https://en.wikipedia.org/wiki/John_Nelson_Darby

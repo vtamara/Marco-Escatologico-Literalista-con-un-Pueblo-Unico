@@ -32,31 +32,14 @@ de años, segunda venida al final de la tribulación) y lo imitamos en este art�
 Pero rechazamos **la hipótesis interpretativa** de que Israel y la Iglesia
 sean dos pueblos con dos planes distintos.
 
-#### 1.3.1 Los dos argumentos, y su peso relativo
+#### 1.3.1 El orden de los argumentos
 
-La refutación se apoya en **dos argumentos distintos, que no deben confundirse
-porque tienen peso y alcance distintos**:
-
-| Argumento | Naturaleza | Qué muestra | Qué pasa si falla |
-| :--- | :--- | :--- | :--- |
-| **Bíblico** (§3.2): la Iglesia es el Israel de Dios (Gá 6:16), el olivo es uno (Rom 11:17-24), el templo cesó (Mt 24:1-2; Jn 2:19-21) | **Nuclear.** Exégesis del texto | Que la distinción Israel/Iglesia es falsa como *categoría teológica* | Si falla, el marco completo se cae (cf. §5) |
-| **De frutos** (§3.5): lo que ha producido el sistema en Gaza, Irán, Medio Oriente y el Estado moderno de Israel con apoyo del sionismo cristiano | **Auxiliar.** Evaluación de consecuencias | Que la hipótesis, además de infundada, **produce frutos de muerte** (Mt 7:16-20) | Si el lector discute la lectura de los hechos, el argumento bíblico **permanece intacto** |
-
-**Por qué se separan.** El argumento de frutos es históricamente
-circunstancial: los hechos concretos pueden ser discutidos, fechados de otro
-modo o atribuidos a causas políticas ajenas a la teología. El argumento
-bíblico no depende de ningún acontecimiento contemporáneo: se sostiene o cae
-con el texto. Por eso el marco **no apoya su tesis en los frutos**, sino que
-los usa como confirmación y como advertencia ética: una teología que lleva a
-deshumanizar hermanos en la fe no puede venir de la sabiduría de lo alto
-(Stg 3:17; cf. §3.5.3).
-
-**Cómo leerlo.** La Escritura dice que la teología no es neutral y que se
-conoce por sus frutos (Mt 7:16-20; Stg 3:17). Pero el orden del argumento es
-el inverso al que a veces se nos atribuye: **primero el texto, después los
-frutos**. Quien refute nuestra lectura de los hechos no habrá refutado la
-tesis; quien refute el argumento bíblico sí la habrá refutado, y entonces los
-frutos dejan de importar para el juicio del sistema.
+La refutación usa **dos argumentos de peso distinto**: el **bíblico** (§3.2) es
+nuclear (si falla, cae el marco); el **de frutos** (§3.5) es auxiliar (si el
+lector discute la lectura de los hechos, el argumento bíblico permanece
+intacto). Se aplica el orden inverso al que a veces se nos atribuye: **primero
+el texto, después los frutos**. Desarrollo completo en el §8.1 del documento
+ampliado.
 
 | **Se conserva (método literalista)** | **Se rechaza (hipótesis interpretativa)** |
 | :--- | :--- |
@@ -119,36 +102,12 @@ La pertenencia al pueblo de Dios siempre se definió por la **fe** y la persever
 
 #### 2.3.1 El argumento no es nuestro: también entre judíos
 
-Este documento no sostiene que Israel deba carecer de tierra ni que el pueblo
-judío no tenga derecho a vivir en ella. Sostiene algo más limitado: que **el
-Estado moderno de Israel no es el Israel de Dios**, y que esa distinción **no es
-una invención cristiana**.
-
-Entre los propios judíos hay quienes rechazan la ecuación entre el Estado y el
-pueblo del pacto. Ocurre en varias direcciones:
-
-| Corriente | Su rechazo |
-| :--- | :--- |
-| **Judaísmo ultraortodoxo antisionista** (Neturei Karta, Satmar y otros) | El Estado es una usurpación del Mesías: el regreso y la soberanía deben venir de Dios, no de una asamblea humana. Algunos llegan a oponerse a la existencia del Estado como entidad soberana. |
-| **Judaísmo reformista y reconstruccionista** | La vocación judía es religiosa y ética, no la soberanía de un Estado; la tierra es símbolo de esperanza, no título de propiedad estatal. |
-| **Pensadores sionistas críticos** (p. ej. Martin Buber) | Un sionismo binacional: dos pueblos en la misma tierra con igualdad de derechos, sin exclusividad de un pueblo sobre el otro. |
-| **Judíos seculares y de izquierda** | Rechazan la definición del Estado como «Estado judío» por sus consecuencias sobre la ciudadanía y los derechos de los no judíos. |
-
-**Por qué esto importa al argumento.** Si la identificación «Estado moderno =
-Israel de Dios» fuera evidente, la aceptarían quienes más conocen el texto
-hebreo. No es así: hay judíos que la rechazan por razones teológicas, y hay
-judíos que la rechazan por razones éticas y políticas. El argumento cristiano de
-este documento coincide con ellos en un punto y solo en uno: **el Estado no es
-el pueblo del pacto**.
-
-**Lo que este documento no afirma.** No se sostiene que Israel no deba existir,
-ni que los judíos no tengan derecho a la tierra, ni que deban ser expulsados. Se
-sostiene lo contrario de lo que a veces se nos atribuye: **la misma medida para
-todos**. Israel como Estado tiene derecho a existir con seguridad; los
-palestinos tienen derecho a la misma seguridad, a la misma tierra y a los mismos
-derechos. La crítica al sionismo cristiano no es una crítica al pueblo judío: es
-una crítica a quienes le asignan al Estado una función divina que el propio
-pueblo, desde distintas corrientes, cuestiona.
+La distinción «Estado moderno ≠ Israel de Dios» **no es una invención
+cristiana**: la rechazan también corrientes judías (ultraortodoxas
+antisionistas, reformistas, sionistas críticos como Buber, y judíos seculares),
+cada una por sus razones. El documento no niega el derecho de Israel a existir
+ni el de los judíos a vivir en la tierra: pide **la misma medida para todos**.
+Desarrollo completo en el §8.2 del documento ampliado.
 
 ### 2.4 El cese del templo como centro del pacto
 
@@ -180,34 +139,15 @@ pueblo, desde distintas corrientes, cuestiona.
 | "nación santa" (`ἔθνος ἅγιον`) | Éx 19:6; Dt 7:6 | La iglesia |
 | "pueblo adquirido" (`λαὸς εἰς περιποίησιν`) | Is 43:21; Éx 19:5 | La iglesia |
 
-### 2.6 Tabla de estatus: texto vs. inferencia
+### 2.6 Criterio de falsación de este capítulo
 
-| Afirmación | Sustento bíblico / Naturaleza |
-| :--- | :--- |
-| Incorporación por fe (Rahab, Rut, extranjeros) | Texto bíblico (Jos 2; Rt 1; Éx 12) |
-| Israel = El que lucha con Dios y prevalece | Texto bíblico (Gn 32:28; Os 12:4) |
-| El nombre se da por la lucha y el ruego, no por genealogía | Texto bíblico (Gn 32:24-28; 35:10; Os 12:3-4) |
-| El Israel de Dios definido por la promesa y la fe | Texto bíblico (Rom 9:6-8; Gá 6:16) |
-| El cese del templo como centro del pacto | Texto bíblico (Mt 24:1-2; Jn 2:19-21; 1 Co 3:16) |
-| La Iglesia es el Israel de Dios (Gá 6:16) | Texto bíblico (Gá 6:16) |
-| El olivo es uno (Rom 11:17-24) | Texto bíblico (Rom 11:17-24) |
-| Distinción entre el Israel bíblico y el Estado moderno | Inferencia teológica |
-| El Estado moderno de Israel **coopta** el nombre y las promesas sin la fe | Inferencia teológica (por el patrón de Is 48:1-2 y del Israel del Norte; cf. §2.3) |
-| Los santos del AT resucitan en el juicio final | Inferencia teológica (Dn 12:2; Ap 20:11-15) |
+Si se muestra que la pertenencia a Israel se define por pura genealogía en el
+AT, o que la Iglesia no es el Israel de Dios (Gá 6:16), o que el olivo no es
+uno (Rom 11:17-24), este capítulo se cae.
 
+La tabla que separa **texto bíblico** de **inferencia teológica** para cada
+afirmación del marco está en el §8.6 del documento ampliado.
 
-
-### 2.7 El deseo de Dios para toda la humanidad y el desierto como tipo
-
-La Escritura afirma que el deseo de Dios es que **todos** los hombres se salven y lleguen al conocimiento de la verdad (1 Timoteo 2:4; 2 Pedro 3:9; Ezequiel 33:11). Ese deseo no está limitado a un grupo, sino que abarca a toda la humanidad (Génesis 12:3; Isaías 49:6; Mateo 28:19; Hechos 1:8).
-
-El **Israel en el desierto** es el **tipo** de esta realidad: Dios quería que **todos** los que salieron de Egipto entraran en la tierra prometida, pero **solo entraron los que tuvieron fe y aceptaron** (Números 13:30-33; 14:1-10; 14:20-24; Josué 14:6-14). La generación incrédula quedó en el desierto (Números 14:29-30; Hebreos 3:16-19), y solo Caleb y Josué, que creyeron, entraron (Números 32:12; Deuteronomio 1:36).
-
-**Lo que cuenta no es ningún tipo de división** que incluso Dios mismo haya producido para mantener viva su palabra entre los hombres, sino **la fe**. La división entre los israelitas en el desierto, el Israel del Norte y el Israel del Sur (1 Reyes 12), la división entre judíos y gentiles (Efesios 2:14-16), la división entre la nación moderna de Israel y la Iglesia (Gálatas 6:16) —ninguna de esas divisiones es el criterio de pertenencia al pueblo de Dios. **El criterio es la fe**, y esa fe es la que hace que el deseo universal de Dios se cumpla en quienes creen.
-
-### 2.8 Criterio de falsación de este capítulo
-
-Si se muestra que la pertenencia a Israel se define por pura genealogía en el AT, o que la Iglesia no es el Israel de Dios (Gá 6:16), o que el olivo no es uno (Rom 11:17-24), este capítulo se cae.
 
 ---
 
@@ -239,63 +179,39 @@ De estos tres, el primero es el **criterio definitorio** (*sine qua non*): sin l
 
 ### 3.3 Refutación empírica: la imposibilidad del "Israel étnico"
 
-El dispensacionalismo necesita que el "Israel étnico" sea identificable como descendencia biológica de Jacob. Tres argumentos muestran que esa categoría es inoperante.
+El dispensacionalismo necesita que el "Israel étnico" sea identificable como
+descendencia biológica de Jacob. Tres argumentos muestran que la categoría es
+inoperante:
 
-#### 3.3.1 El argumento genético
+1. **Genético**: no existe un umbral de "ADN judío" definible (Elhaik: "no
+   existe un genoma judío").
+2. **Matrilineal**: el criterio halájico de "madre judía" **excluiría a David y
+   a Jesús**, porque Rut era moabita y Rahab cananea (Rt 4:13-17; Mt 1:5).
+3. **Político-legal**: la Ley del Retorno se basa en documentación, no en
+   genética; y ~1,7 millones de palestinos tienen ciudadanía israelí por
+   residencia histórica.
 
-El genetista israelí Eran Elhaik (Universidad de Haifa) afirma: *"No existe un genoma judío y, desde luego, no existe un gen judío"*.
-
-Una estimación divulgada en 2025 sugiere que hasta 152 millones de personas (1,85% de la población mundial) portan trazas de ancestros judíos en su ADN. Si se intentara definir un umbral de "ADN judío", con 100% no habría individuos y con 0,1% habría millones de personas en todo el mundo que no se consideran judías.
-
-**La categoría es inoperante:** no hay un umbral genético definible que coincida con la pertenencia al pueblo de Dios.
-
-#### 3.3.2 El argumento matrilineal
-
-Si el dispensacionalismo usara el criterio halájico tradicional de "madre judía" para definir al "Israel étnico", **excluiría a David y a Jesús**:
-
-- **Rut** era moabita (Rt 1:4, 16-17) y está en la línea materna directa de David (Rt 4:13-17).
-- **Rahab** era cananea (Jos 2:1; 6:25) y está en la genealogía de Booz y de Jesús (Mt 1:5).
-- Si el criterio es "madre judía", David no califica, y Jesús tampoco por su genealogía legal.
-- Si el criterio es patrilineal, Rahab y Rut no califican.
-
-**No hay criterio étnico único que incluya a David, a Jesús, a Rahab y a Rut.** La Escritura define al pueblo de Dios por **fe**, no por genealogía (Jos 2; Rt 1; Nm 32:12; Éx 12:38).
-
-#### 3.3.3 El argumento político-legal
-
-En la práctica, el Estado moderno de Israel no ofrece un criterio de "descendencia biológica de Jacob" verificable:
-
-- La **Ley del Retorno** (1950, enmendada en 1970) otorga ciudadanía a judíos (nacidos de madre judía o convertidos) y a sus hijos, nietos y cónyuges, basándose en **documentación legal**, no en genética.
-- Además, ~1,7 millones de palestinos tienen ciudadanía israelí por residencia histórica (los que quedaron en 1948), no por ascendencia judía.
-- Ninguno de estos criterios es "descendencia biológica de Jacob".
-
-**El dispensacionalismo termina operando con un criterio político-legal, no genético ni de fe.**
+El dispensacionalismo termina operando con un criterio político-legal, no
+genético ni de fe. Desarrollo completo en el §8.3 del documento ampliado.
 
 ### 3.4 Refutación teológica: las guerras del AT no autorizan guerras modernas
 
-Es frecuente justificar operaciones militares del Estado moderno de Israel con las guerras de la conquista o con las campañas de Saúl y David. El texto no permite ese traslado, por cinco razones.
+Es frecuente justificar operaciones militares del Estado moderno de Israel con
+las guerras de la conquista. El texto no permite ese traslado, por cinco
+razones: (1) cada guerra del AT tuvo **orden profética explícita** (Jos 1:1-9;
+1 S 15:1-3); (2) Dios mismo combatía con **señales que nadie podía reclamar**
+(Éx 14:21-22; Jos 10:12-14); (3) el **alcance y el motivo** estaban declarados y
+limitados a Canaán por su maldad (Gn 15:16; Dt 9:4-5); (4) el **propósito
+histórico ya se cumplió en Cristo** (Rom 3:2; Gá 3:24); y (5) **después de
+Jesús no hay ninguna profecía que ordene guerra**: «todos los que tomen espada,
+a espada perecerán» (Mt 26:52), «mi reino no es de este mundo» (Jn 18:36), «las
+armas de nuestra milicia no son carnales» (2 Co 10:4).
 
-**1. Cada guerra del AT tuvo orden profética explícita.** No hubo guerra santa sin mandato directo de Dios a un profeta reconocido: Josué (Jos 1:1-9), Samuel a Saúl (1 S 15:1-3), Gad y Natán a David (2 S 7:1-17). Saúl fue **rechazado** precisamente por no ejecutar la orden (1 S 15:22-23). El criterio no era "somos el pueblo", sino "Dios lo ordenó por boca de su profeta".
-
-**2. Dios mismo combatía, con señales que nadie podía reclamar.** El mar Rojo (Éx 14:21-22), el Jordán (Jos 3:14-17), el sol detenido (Jos 10:12-14), el trueno sobre los filisteos (1 S 7:10). Eran operaciones directas de Dios, no solo victorias militares interpretadas como milagro.
-
-**3. El alcance estaba limitado y el motivo declarado.** Las guerras de conquista se limitaron a las naciones de Canaán por el colmo de su maldad (Gn 15:16; Lv 18:24-28; Dt 9:4-5; Dt 20:16-18). No fue un deseo de sangre de Dios, sino juicio acumulado, y no por justicia de Israel ("no por tu justicia", Dt 9:4-5).
-
-**4. El propósito histórico ya se cumplió en Cristo.** Preservar al pueblo que llevaría la Ley escrita (Rom 3:2) y sería matriz del Mesías (Rom 9:4-5; Gá 3:24). Cumplido eso, no queda una función pendiente que exigiría un nuevo pueblo territorial.
-
-**5. Después de Jesús el criterio profético cambia y la fuerza ya no es el medio.** No hay en el NT ninguna profecía que ordene guerra:
-
-| Texto | Qué establece |
-| :--- | :--- |
-| **Mt 26:52** | «Todos los que tomen espada, a espada perecerán» — dicho al defenderlo a Él mismo |
-| **Jn 18:36** | «Mi reino no es de este mundo; si de este mundo fuera, mis servidores pelearían» — el reino no se defiende con fuerza |
-| **2 Co 10:4** | «Las armas de nuestra milicia no son carnales» |
-| **Mt 5:21-22** | El sexto mandamiento se profundiza hasta el enojo y el insulto |
-| **Heb 1:1-2** | «En estos postreros días nos ha hablado por el Hijo» — la revelación normativa es Cristo |
-| **1 Jn 4:1-3** | El criterio para todo espíritu o profeta: confesar a Jesús venido en carne |
-
-**Conclusión.** «No matarás» (Éx 20:13) sigue vigente. Las excepciones del AT fueron mandatos puntuales, verificables y cumplidos. Jesús no solo no las extendió: las hizo más improbables al condenar el enojo mismo (Mt 5:22) y al negar el uso de la espada incluso en su propia defensa (Mt 26:52). El pacto nuevo no requiere fuerza para llevar el evangelio: el testimonio se da en libertad y amor, como Él lo dio y lo ordenó (Jn 13:34-35; Mt 28:19-20).
-
-**Inferencia teológica:** quien invoque la conquista para justificar operaciones militares modernas debe mostrar (a) profeta reconocido con orden explícita, (b) señal acompañante verificable, (c) alcance y motivo declarados por Dios. Sin esos tres, el traslado no tiene base bíblica. Y después de Cristo, el criterio (a) queda además sujeto a 1 Jn 4:1-3.
+**Criterio resultante:** quien invoque la conquista para justificar operaciones
+modernas debe mostrar (a) profeta reconocido con orden explícita, (b) señal
+acompañante verificable y (c) alcance y motivo declarados por Dios; además, todo
+espíritu debe confesar a Jesús venido en carne (1 Jn 4:1-3). Desarrollo completo
+en el §8.4 del documento ampliado.
 
 ### 3.5 Consecuencias prácticas del sistema
 
@@ -327,44 +243,29 @@ Ken Bechtel, «A Premillennialist Pacifism: The Canadian Swiss Mennonite Peace P
 
 #### 3.5.3 Los cristianos de Tierra Santa: el eslabón que falta
 
-Todo lo anterior podría discutirse como teología abstracta. Deja de serlo cuando se considera quiénes son las personas afectadas: **entre los habitantes de Gaza, Cisjordania, Líbano e Irán hay cristianos**, hermanos en la fe. No son una minoría irrelevante:
+Todo lo anterior podría discutirse como teología abstracta. Deja de serlo cuando
+se considera quiénes son las personas afectadas: **entre los habitantes de Gaza,
+Cisjordania, Líbano e Irán hay cristianos**, hermanos en la fe.
 
 | Lugar | Presencia cristiana |
 | :--- | :--- |
-| **Líbano** | El país con mayor proporción de cristianos de la región; el presidente, por el pacto nacional, es siempre cristiano maronita, y hay comunidades maronita, ortodoxa griega, melquita, armenia, siríaca y protestante |
-| **Cisjordania** | Comunidades en Belén, Beit Sahour, Beit Jala, Ramala, Jerusalén; entre ellas la Iglesia Luterana de Navidad, de donde es pastor Munther Isaac |
+| **Líbano** | El país con mayor proporción de cristianos de la región; el presidente, por el pacto nacional, es siempre cristiano maronita |
+| **Cisjordania** | Comunidades en Belén, Beit Sahour, Beit Jala, Ramala, Jerusalén (entre ellas la Iglesia Luterana de Navidad, de donde es pastor Munther Isaac) |
 | **Gaza** | Una de las comunidades cristianas más antiguas del mundo, hoy reducida y desplazada |
-| **Irán** | Minorías armenia y asiria reconocidas constitucionalmente, con escaños reservados en el parlamento; además, **iglesias clandestinas** de creyentes de origen musulmán, que se reúnen en casas y enfrentan riesgo real de detención |
+| **Irán** | Minorías armenia y asiria reconocidas, y **iglesias clandestinas** de creyentes de origen musulmán, con riesgo real de detención |
 
-Cuando se invoca un juicio divino sobre una de estas regiones, se está hablando de **hermanos en la fe**, no de una categoría geopolítica abstracta. Y en el caso de Irán, la situación agrava el problema: una guerra sobre ese país alcanza también a creyentes que ya viven bajo persecución, para quienes la iglesia visible no existe y el templo es una casa prestada.
+Cuando se invoca un juicio divino sobre una de estas regiones se está hablando
+de **hermanos en la fe**, no de una categoría geopolítica abstracta. **La
+presencia de hermanos no convierte a un pueblo en blanco legítimo, y su
+deshumanización no se vuelve aceptable porque encaje en un esquema profético.**
 
-No se trata de que una nación sea más cristiana que otra, ni de justificar violencia por la composición religiosa de un país. Se trata de lo contrario: **la presencia de hermanos no convierte a un pueblo en blanco legítimo, y su deshumanización no se vuelve aceptable porque encaje en un esquema profético.**
+**La prueba del árbol:** un sistema teológico que lleva a deshumanizar hermanos
+en la fe no puede venir de la sabiduría de lo alto (Stg 3:17; cf. Gá 6:10;
+1 Jn 4:20; 1 Co 12:26; Mt 25:40).
 
-El pastor luterano **Munther Isaac** (Iglesia Luterana de Navidad, Belén; decano académico del Bethlehem Bible College; director de las conferencias Christ at the Checkpoint) lo formula así: los cristianos palestinos son «el elemento ausente» del relato; muchos evangélicos occidentales «se sorprenden al descubrir que existen cristianos palestinos». Y señala la consecuencia práctica: relacionarse con las personas «como objetos de fantasías escatológicas, no como vecinos».
-
-Isaac describe además las «cuatro suposiciones» del sionismo cristiano, que dice tomar de declaraciones oficiales de iglesias y líderes:
-
-1. El pacto abrahámico continúa con el pueblo judío actual y, por asociación, con el Estado de Israel.
-2. La creación del Estado de Israel (1948) es «señal de la fidelidad de Dios al pueblo judío» o cumplimiento de profecía.
-3. Génesis 12:3 («bendeciré a los que te bendigan») aplicado a un **Estado secular**: quien bendice a Israel será bendecido. Isaac lo llama «manipulación religiosa 101 con fines políticos».
-4. La tierra pertenece al pueblo judío como posesión eterna y por derecho divino.
-
-**Lo que esto muestra:** cuando se dice que Gaza es como Hai, se está afirmando —se quiera o no— que Dios ordenó destruir a personas entre las que hay hermanos. Eso contradice:
-
-| Texto | Mandato |
-| :--- | :--- |
-| **Gá 6:10** | «Hagamos bien a todos, y mayormente a los de la familia de la fe» |
-| **1 Jn 4:20** | «El que no ama a su hermano a quien ha visto, ¿cómo puede amar a Dios a quien no ha visto?» |
-| **1 Co 12:26** | «Si un miembro padece, todos los miembros se duelen con él» |
-| **Jn 13:34-35** | «En esto conocerán que sois mis discípulos, si os amáis unos a otros» |
-| **Mt 25:40** | «En cuanto lo hicisteis a uno de estos mis hermanos más pequeños, a mí lo hicisteis» |
-
-**La prueba del árbol:** un sistema teológico que lleva a deshumanizar hermanos en la fe no puede venir de la sabiduría de lo alto, porque «la sabiduría que es de lo alto es primeramente pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía» (Stg 3:17).
-
-**Orígenes históricos.** Isaac sitúa el origen del sionismo cristiano en el puritanismo, la Declaración Balfour y, sobre todo, **John Nelson Darby**, cuyo dispensacionalismo llegó a ser muy influyente en Norteamérica a través de la Biblia de referencia de Scofield. Distingue la variante europea (protestante y católica), basada en la fidelidad de Dios a los judíos sin énfasis escatológico, de la evangélica estadounidense, centrada en los «últimos tiempos». Como ejemplo de la primera cita la declaración oficial de la Iglesia Protestante de los Países Bajos: «la creación del Estado de Israel es señal de la fidelidad de Dios al pueblo judío».
-
-**Documentos de los cristianos locales.** *Kairos Palestine* (2009) advierte que «cualquier uso de la Biblia para legitimar opciones y posturas políticas basadas en la injusticia [...] transforma la religión en ideología humana y despoja a la Palabra de Dios de su santidad», y afirma: «nuestro futuro y el suyo son uno».
-
+Isaac, las «cuatro suposiciones» del sionismo cristiano, los orígenes
+históricos (Darby, Scofield y la Declaración Balfour) y *Kairos Palestine* se
+desarrollan en el §8.5 del documento ampliado.
 
 ### 3.6 Criterio de falsación de este capítulo
 
@@ -428,42 +329,28 @@ de profecías, tensiones abiertas y refutaciones a autores concretos) está en:
 
 ## 5. Conclusión
 
-El marco sostiene una tesis simple y una consecuencia incómoda.
+**Un solo pueblo.** El criterio de pertenencia al pueblo de Dios es la fe en
+Cristo, no la genealogía ni la soberanía de un Estado (Gá 6:16; Rom 9:6-8;
+Rom 11:17-24). El AT ya lo mostraba: el nombre «Israel» se recibe por lucha y
+ruego (Gn 32:28; Os 12:4), y entraron Rahab, Rut, Caleb y el extranjero antes de
+Cristo (§2).
 
-**La tesis.** Hay un solo pueblo de Dios, y su criterio es la fe en Cristo, no
-la genealogía ni la soberanía de un Estado (Gá 6:16; Rom 9:6-8; Rom 11:17-24).
-Ese pueblo empezó con Abraham y se define igual en el AT y en el NT: por la fe
-que se aferra a la revelación de Dios y prevalece en la lucha y el ruego
-(Gn 32:24-28; Os 12:3-4). Por eso entraron Rahab, Rut, Caleb, la multitud mixta
-y el extranjero residente, y por eso el Israel del Norte, que conservó el
-nombre sin la fe, no fue el Israel de Dios.
+**Se cae la premisa dispensacionalista.** Si el pueblo es uno, no hay dos planes
+ni paréntesis de la Iglesia, y el método literalista queda aplicado
+coherentemente: rapto pretribulacional, tribulación de siete años, Daniel 9:27
+como semana de años, milenio de 1000 años y segunda venida al final de la
+tribulación (§1.3, §4).
 
-**La consecuencia.** Si el pueblo es uno, se cae la premisa que sostiene el
-dispensacionalismo: no hay dos planes, no hay paréntesis de la Iglesia, no hay
-tercer templo, no hay milenio de dominio étnico. Lo que queda es el método
-literalista aplicado coherentemente: rapto pretribulacional, tribulación de
-siete años, semana de años de Daniel 9:27, milenio literal de 1000 años y
-segunda venida al final de la tribulación, todo dentro de una sola historia de
-salvación para un solo pueblo.
+**Consecuencia práctica.** La distinción entre el Israel bíblico y el Estado
+moderno se sigue de la tesis, y con ella la misma medida para todos: no se niega
+a Israel su derecho a existir, se niega la función divina que el sionismo
+cristiano le atribuye (§2.3.1, §3.5).
 
-**La aplicación.** La distinción entre el Israel bíblico y el Estado moderno de
-Israel no es un añadido polémico: se sigue de la tesis. De ahí la advertencia
-de §3.5: una teología que lleva a deshumanizar hermanos en la fe no puede venir
-de la sabiduría de lo alto (Stg 3:17; Gá 6:10). Y de ahí también el límite: no
-se niega el derecho de Israel a existir ni el de los judíos a vivir en la
-tierra; se niega la función divina que el sionismo cristiano le atribuye. La
-misma medida para todos (§2.3.1).
-
-**Lo que el documento no afirma.** No afirma que su lectura sea la única ni la
-definitiva. Cada capítulo declara su criterio de falsación: si se muestra que la
-Iglesia no es el Israel de Dios, que el templo físico sigue siendo el centro del
-pacto, o que el nombre «Israel» es puramente genealógico, el capítulo
-correspondiente se cae (cf. §2.8, §3.6, y el §6 del documento ampliado). Los
-frutos, en cambio, no sostienen la tesis: la confirman y advierten (§1.3.1).
-
-**Invitación.** El marco está abierto a corrección. Se somete al texto y a la
-guía del Espíritu Santo (Jn 16:13), y se ofrece para ser examinado con la misma
-medida con que examina: por la Escritura, no por la etiqueta de quien lo lee.
+**Lo que no se afirma.** No es la única lectura posible. Cada capítulo declara
+su criterio de falsación (§2.6, §3.6; ampliado §6), y el argumento de frutos
+solo confirma, no sostiene (§1.3.1). El marco se ofrece al examen por la
+Escritura y a la guía del Espíritu Santo (Jn 16:13). Su desarrollo completo está
+en el §4.7 del documento ampliado.
 
 ---
 
@@ -491,7 +378,7 @@ medida con que examina: por la Escritura, no por la etiqueta de quien lo lee.
   Punishment of the Crime of Genocide*, A/HRC/60/CRP.3, 16 de septiembre de 2025.
 - Isaac, Munther. *From Land to Lands, from Eden to the Renewed Earth*
   (2015). Conferencia «Christian Zionism as Imperial Theology» (Christ at the
-  Checkpoint / Balfour Project). Ver §3.5.3.
+  Checkpoint / Balfour Project). Ver §3.5.3 y ampliado §8.5.
 - Smith, Robert O. *More Desired than Our Own Salvation*.
 - *Kairos Palestine* (2009). Documento de los cristianos palestinos.
 - https://en.wikipedia.org/wiki/John_Nelson_Darby
